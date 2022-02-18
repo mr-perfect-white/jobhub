@@ -112,8 +112,8 @@
                     <h4 class="mt-30 mb-30">Work Process</h4>
                     <img src="assets/imgs/page/candidates/work-process.svg" alt="jobhub">
                     <div class="divider"></div>
-                    <h4 class="mt-30 mb-30">Education</h4>
-                    <div class="row">
+                    <!-- <h4 class="mt-30 mb-30">Education</h4> -->
+                    <!-- <div class="row">
                         <div class="col-lg-6">
                             <ul>
                                 <li>Cambridge University(2001-2004)</li>
@@ -127,7 +127,7 @@
                                 Deleniti asperiores, commodi quae ipsum quas est itaque
                             </p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="divider"></div>
                     <h4 class="mb-10 mt-30">Professional Skills</h4>
                     <div class="block-progress-status">
@@ -313,24 +313,10 @@
                                 </div>
                             </li>
                             <li>
-                                <div class="sidebar-icon-item"><i class="fi-rr-marker"></i></div>
-                                <div class="sidebar-text-info">
-                                    <span class="text-description">From</span>
-                                    <strong class="small-heading">Dallas, Texas<br />Remote Friendly</strong>
-                                </div>
-                            </li>
-                            <li>
                                 <div class="sidebar-icon-item"><i class="fi-rr-dollar"></i></div>
                                 <div class="sidebar-text-info">
                                     <span class="text-description">Salary</span>
                                     <strong class="small-heading">$35k - $45k</strong>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="sidebar-icon-item"><i class="fi-rr-clock"></i></div>
-                                <div class="sidebar-text-info">
-                                    <span class="text-description">Member since</span>
-                                    <strong class="small-heading">Jul 2012</strong>
                                 </div>
                             </li>
                             <li>

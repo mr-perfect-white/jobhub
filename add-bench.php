@@ -4,14 +4,14 @@
         <div class="row">
             <div class="add-bench-form-section p-5">
                 <div class="col-12 my-4 text-center">
-                    <h4>Add Bench Form</h4>
+                    <h3 class="wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">Bench Form</h3>
                 </div>
                 <form class="sign-in-form-style" id="sign-form" action="#" method="post">
                     <div class="row wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
                         <div class="col-lg-6 col-md-6 my-2">
                             <div class="input-sign-style mb-20">
                                 <label  class="label-title"  for="">Name <span class="label-star">*</span> </label>
-                                <input name="name" placeholder="First Name *" type="text" />
+                                <input name="name" placeholder="First Name *" type="text"/>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 my-2">
@@ -37,7 +37,16 @@
                         <div class="col-lg-6 col-md-6 my-2">
                             <div class="input-sign-style mb-20">
                                 <label  class="label-title"  for="">Experience <span class="label-star">*</span></label>
-                                <input name="experience" placeholder="Experience" type="text" />
+                                <!-- <input name="experience" placeholder="Experience" type="text" /> -->
+                                <select class="form-select input-sign-style mb-20" aria-label="Default select example">
+                                    <option disabled selected>Experience</option>
+                                    <option value="1">1 years</option>
+                                    <option value="2">2 years</option>
+                                    <option value="3">3 years</option>
+                                    <option value="4">4 years</option>
+                                    <option value="5">5 years</option>
+                                    <option value="more-than-five">above 5 years</option>
+                               </select>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 my-2">
@@ -90,8 +99,10 @@
                                 <textarea name="" id="" cols="30" rows="10" placeholder="Message"></textarea>
                             </div>
                         </div>     
-                        <!-- <div class="col-12 multi-field-wrapper">
-                            <form class="cost-form col-12" method="post" action="">
+                        <div class="col-12 multi-field-wrapper">
+                            <div class="col-12 bgs-grey p-3 my-4 ">
+                                <h5 class="cl-white">Work Experiences</h5>
+                            </div>
                                 <div class="multi-fields">
                                     <div class="row multi-field pb-3">
                                         <div class="col-lg-6 col-md-6 my-2">
@@ -115,15 +126,14 @@
                                             <textarea name="role-respon" id="" cols="30" rows="10" ></textarea>
                                         </div>
                                         <div class="col-lg-2 col-sm-6 pt-3  form-content position_lit">
-                                            <button type="button" class="btn bg-primary btn-contact w-100 add-field">Add</button>
+                                            <button type="button" class="btn bg-primary btn-contact w-100 add-field cl-white">Add</button>
                                         </div>
                                         <div class="col-lg-2 col-sm-6 pt-3  form-content remove-field position_lit">
                                             <button type="button" class="btn bg-danger w-100 text-white">Delete</button>
                                         </div>
                                     </div>
                                 </div>
-                            </form>
-                        </div>   -->
+                        </div>  
                         <div class="form-notes-btn my-5 text-center">
                             <input class="btn btn-default" type="submit"  value="Submit">
                         </div> 

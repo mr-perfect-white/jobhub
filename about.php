@@ -46,7 +46,6 @@
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis illum fuga eveniet. Deleniti asperiores, commodi quae ipsum quas est itaque, ipsa, dolore beatae voluptates nemo blanditiis iste eius officia minus. Id nisi, consequuntur sunt impedit quidem, vitae mollitia!
                     </p>
                 </div>
-            
             </div>
             <div class="col-lg-6 d-flex align-items-center">
                 <img  src="assets/imgs/page/employers/img-1.png" alt="jobhub">

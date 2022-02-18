@@ -43,8 +43,8 @@
                                         <div class="form-group mb-0 select-style select-style-icon">
                                             <select class="form-control form-icons select-active">
                                                 <option selected disabled>Select Technology</option>
-                                                <option>Software1</option>
-                                                <option>Marketing2</option>
+                                                <option>Software</option>
+                                                <option>Marketing</option>
                                             </select>
                                             <i class="fi-rr-briefcase"></i>
                                         </div>

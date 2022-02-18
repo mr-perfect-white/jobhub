@@ -21,7 +21,6 @@
     <link rel="stylesheet" href="assets/sass/layout/_responsive.scss">
     <link rel="stylesheet" href="assets/sass/layout/_header.scss">
     <!-- <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.css" rel="stylesheet"> -->
-    
 </head>
 
 <body>
