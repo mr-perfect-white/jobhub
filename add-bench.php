@@ -37,7 +37,6 @@
                         <div class="col-lg-6 col-md-6 my-2">
                             <div class="input-sign-style mb-20">
                                 <label  class="label-title"  for="">Experience <span class="label-star">*</span></label>
-                                <!-- <input name="experience" placeholder="Experience" type="text" /> -->
                                 <select class="form-select input-sign-style mb-20" aria-label="Default select example">
                                     <option disabled selected>Experience</option>
                                     <option value="1">1 years</option>
@@ -45,7 +44,11 @@
                                     <option value="3">3 years</option>
                                     <option value="4">4 years</option>
                                     <option value="5">5 years</option>
-                                    <option value="more-than-five">above 5 years</option>
+                                    <option value="6">6 years</option>
+                                    <option value="7">7 years</option>
+                                    <option value="8">8 years</option>
+                                    <option value="9">9 years</option>
+                                    <option value="more-than-five">above 10 years</option>
                                </select>
                             </div>
                         </div>
@@ -59,7 +62,7 @@
                             <form onsubmit="return false;"> 
                                 <label  class="label-title">Skills<span class="label-star">*</span></label>
                                 <div class="input-sign-style mb-20">
-                                    <input name="skill"  class="added-skils" placeholder="Enter comma separated one by one or select skills" type="text" />
+                                    <input name="skill"  class="added-skils" placeholder=" Added skills" type="text" />
                                 </div>
                              </form>
                         </div>
@@ -93,12 +96,40 @@
                                 <input name="file" placeholder="No file chosen" type="file" />
                             </div>
                         </div>
+                        <!-- <div class="col-lg-6 col-md-6 my-2">
+                            <form onsubmit="return false;"> 
+                                <label  class="label-title">Professional Skills<span class="label-star">*</span></label>
+                                <div class="input-sign-style mb-20">
+                                    <input name="pskill"  class="padded-skils" placeholder="Professional Skills" type="text" />
+                                </div>
+                             </form>
+                        </div> -->
+                        <div class="col-lg-6 col-md-6 my-2">
+                            <div class="input-sign-style mb-20">
+                                <label  class="label-title"  for="">Rating <span class="label-star">*</span></label>
+                                <select class="form-select input-sign-style mb-20" aria-label="Default select example">
+                                    <option disabled selected>Rating</option>
+                                    <option value="1">1 </option>
+                                    <option value="2">2 </option>
+                                    <option value="3">3 </option>
+                                    <option value="4">4 </option>
+                                    <option value="5">5 </option>
+                                    <option value="6">6 </option>
+                                    <option value="7">7 </option>
+                                    <option value="8">8 </option>
+                                    <option value="9">9 </option>
+                                    <option value="10">10 </option>
+                                    
+                               </select>
+                            </div>
+                        </div> 
                         <div class="row">
                             <div class="col-lg-12 col-md-6 my-2">
                                 <label  class="label-title"  for="">Description<span class="label-star">*</span> </label>
                                 <textarea name="" id="" cols="30" rows="10" placeholder="Message"></textarea>
                             </div>
-                        </div>     
+                        </div>   
+                        
                         <div class="col-12 multi-field-wrapper">
                             <div class="col-12 bgs-grey p-3 my-4 ">
                                 <h5 class="cl-white">Work Experiences</h5>
@@ -159,15 +190,15 @@
     });
 });
 $(document).ready(function() {
-    $('.added-skils').tagsinput({
+    $('.added-skils,.padded-skils').tagsinput({
         trimValue: true,
         confirmKeys: [13, 44, 32],
         focusClass: 'my-focus-class'
     });
-    $('.added-skils').on('focus', function() {
-        $(this).closest('.added-skils').addClass('has-focus');
+    $('.added-skils,.padded-skils').on('focus', function() {
+        $(this).closest('.added-skils,.padded-skils').addClass('has-focus');
     }).on('blur', function() {
-        $(this).closest('.added-skils').removeClass('has-focus');
+        $(this).closest('.added-skils,.padded-skils').removeClass('has-focus');
     });
 });
 </script>

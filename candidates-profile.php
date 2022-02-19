@@ -64,70 +64,67 @@
                     <div class="divider"></div>
                     <h4 class="mb-20 mt-25">Work Experience</h4>
                     <div class="row">
-                        <div class="col-md-4 col-sm-6 col-12 mb-60">
-                            <strong class="text-md-bold">Behance Design</strong>
-                            <span class="dis-block text-muted text-md-lh24">
-                                NY, UK<br />
-                                Jan 2021 — Present
-                            </span>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-12 mb-60">
-                            <strong class="text-md-bold">Behance Accounting</strong>
-                            <span class="dis-block text-muted text-md-lh24">
-                                pxdraft Ltd, UK<br>
-                                Jan 2018 — Dec 2021
-                            </span>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-12 mb-60">
-                            <strong class="text-md-bold">Behance Creative</strong>
-                            <span class="dis-block text-muted text-md-lh24">
-                                AT Studio, UK<br>
-                                Jan 2017 — May 2017
-                            </span>
-                        </div>
+                        <div class="col-md-12 col-12 mb-60">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <h2 class="text-md-bold">Title</h2>
+                                    <p>testinfo tech</p>
+                                </div>
+                                <div class="col-lg-6">
+                                    <h2 class="text-md-bold">Duration in Month </h2>
+                                    <p>09-02-2022 to 10-02.2022</p>
+                                </div>
 
-                        <div class="col-md-4 col-sm-6 col-12 mb-10">
-                            <strong class="text-md-bold">Behance Social</strong>
-                            <span class="dis-block text-muted text-md-lh24">
-                                NY, UK<br />
-                                Jan 2021 — Present
-                            </span>
+                            </div>
+                            
+                            <div>
+                                <h2 class="text-md-bold">Project Description</h2>
+                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                  when an unknown printer took a galley of type and scrambled it to make a type 
+                                  specimen book
+                                </p>
+                            </div>
+                            <div>
+                                <h2 class="text-md-bold">Role and Responsibilities</h2>
+                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                  when an unknown printer took a galley of type and scrambled it to make a type 
+                                  specimen book
+                                </p>
+                            </div>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-12 mb-10">
-                            <strong class="text-md-bold">Behance Search</strong>
-                            <span class="dis-block text-muted text-md-lh24">
-                                NY, UK<br />
-                                Jan 2021 — Present
-                            </span>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-12 mb-10">
-                            <strong class="text-md-bold">Behance Video</strong>
-                            <span class="dis-block text-muted text-md-lh24">
-                                NY, UK<br />
-                                Jan 2021 — Present
-                            </span>
+                        <div class="col-md-12 col-12 mb-60">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <h2 class="text-md-bold">Title</h2>
+                                    <p>info tech</p>
+                                </div>
+                                <div class="col-lg-6">
+                                    <h2 class="text-md-bold">Duration in Month </h2>
+                                    <p>09-04-2022 to 10-02.2022</p>
+                                </div>
+
+                            </div>
+                            
+                            <div>
+                                <h2 class="text-md-bold">Project Description</h2>
+                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                  when an unknown printer took a galley of type and scrambled it to make a type 
+                                  specimen book
+                                </p>
+                            </div>
+                            <div>
+                                <h2 class="text-md-bold">Role and Responsibilities</h2>
+                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                  when an unknown printer took a galley of type and scrambled it to make a type 
+                                  specimen book
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="divider"></div>
                     <h4 class="mt-30 mb-30">Work Process</h4>
                     <img src="assets/imgs/page/candidates/work-process.svg" alt="jobhub">
                     <div class="divider"></div>
-                    <!-- <h4 class="mt-30 mb-30">Education</h4> -->
-                    <!-- <div class="row">
-                        <div class="col-lg-6">
-                            <ul>
-                                <li>Cambridge University(2001-2004)</li>
-                                <li>Brads University(2004-2006)</li>
-                                <li>Cambridge University(2006-2010)</li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-6">
-                            <p class="text-muted lh-32">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis illum fuga eveniet.
-                                Deleniti asperiores, commodi quae ipsum quas est itaque
-                            </p>
-                        </div>
-                    </div> -->
                     <div class="divider"></div>
                     <h4 class="mb-10 mt-30">Professional Skills</h4>
                     <div class="block-progress-status">
