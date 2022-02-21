@@ -124,7 +124,6 @@
         </div>
     </div>
 </section>
-
 <section class="section-box bg-blue-full mb-50">
     <div class="container">
         <h3 class="mb-20">Want to talk about ideas? <br>Let's get started right now.</h3>

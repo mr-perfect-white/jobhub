@@ -139,7 +139,7 @@
                                     <div class="card-grid-2-link">
                                         <a href="#"><i class="fi-rr-shield-check"></i></a>
                                     </div>
-                                    <div class="">
+                                    <div>
                                         <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View
                                             Profile</a>
                                     </div>
@@ -189,7 +189,7 @@
                                     <div class="card-grid-2-link">
                                         <a href="#"><i class="fi-rr-shield-check"></i></a>
                                     </div>
-                                    <div class="">
+                                    <div>
                                         <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View
                                             Profile</a>
                                     </div>
@@ -336,33 +336,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- <div class="buttons-filter">
-                                <button class="btn btn-default">Apply filter</button>
-                                <button class="btn">Reset filter</button>
-                            </div> -->
                         </div>
                     </div>
-                    <!-- <div class="sidebar-with-bg">
-                        <h5 class="font-semibold mb-10">Set job reminder</h5>
-                        <p class="text-body-999">Enter you email address and get job notification.</p>
-                        <div class="box-email-reminder">
-                            <form>
-                                <div class="form-group mt-15">
-                                    <input type="text" class="form-control input-bg-white form-icons"
-                                        placeholder="Enter email address" />
-                                    <i class="fi-rr-envelope"></i>
-                                </div>
-                                <div class="form-group mt-25 mb-5">
-                                    <button class="btn btn-default btn-md">Submit</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div> -->
                     <div class="sidebar-with-bg background-primary bg-sidebar pb-80">
                         <h5 class="medium-heading text-white mb-20 mt-20">Recruiting?</h5>
                         <p class="text-body-999 text-white mb-30">Advertise your jobs to millions of monthly users
-                            and
-                            search 16.8 million CVs in our database.</p>
+                            and  search 16.8 million CVs in our database.</p>
                         <a href="#" class="btn btn-border icon-chevron-right btn-white-sm">Post a Job</a>
                     </div>
                 </div>

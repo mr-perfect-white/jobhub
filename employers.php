@@ -270,22 +270,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="sidebar-with-bg">
-                        <h5 class="font-semibold mb-10">Set job reminder</h5>
-                        <p class="text-body-999">Enter you email address and get job notification.</p>
-                        <div class="box-email-reminder">
-                            <form>
-                                <div class="form-group mt-15">
-                                    <input type="text" class="form-control input-bg-white form-icons"
-                                        placeholder="Enter email address" />
-                                    <i class="fi-rr-envelope"></i>
-                                </div>
-                                <div class="form-group mt-25 mb-5">
-                                    <button class="btn btn-default btn-md">Submit</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div> -->
                     <div class="sidebar-with-bg background-primary bg-sidebar pb-80">
                         <h5 class="medium-heading text-white mb-20 mt-20">Recruiting?</h5>
                         <p class="text-body-999 text-white mb-30">Advertise your jobs to millions of monthly users

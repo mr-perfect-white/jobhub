@@ -96,14 +96,6 @@
                                 <input name="file" placeholder="No file chosen" type="file" />
                             </div>
                         </div>
-                        <!-- <div class="col-lg-6 col-md-6 my-2">
-                            <form onsubmit="return false;"> 
-                                <label  class="label-title">Professional Skills<span class="label-star">*</span></label>
-                                <div class="input-sign-style mb-20">
-                                    <input name="pskill"  class="padded-skils" placeholder="Professional Skills" type="text" />
-                                </div>
-                             </form>
-                        </div> -->
                         <div class="col-lg-6 col-md-6 my-2">
                             <div class="input-sign-style mb-20">
                                 <label  class="label-title"  for="">Rating <span class="label-star">*</span></label>

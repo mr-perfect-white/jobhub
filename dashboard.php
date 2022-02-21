@@ -41,9 +41,6 @@
                             </a>
                         </div>
                         <div class="card-block-info">
-                            <!-- <div class="card-profile pt-10">
-                                <h5><a href="employers-single.html"><strong>Add Bench</strong></a></h5>
-                            </div> -->
                             <div class="card-2-bottom card-2-bottom-candidate">
                                 <div class="text-center mt-15">
                                     <a href="add-bench.php" class="btn btn-border btn-brand-hover">Add Bench</a>

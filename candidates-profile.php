@@ -4,7 +4,9 @@
         <div class="container">
             <div class="heading-image-rd online">
                 <a href="#">
-                    <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png"></figure>
+                    <figure>
+                        <img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png">
+                    </figure>
                 </a>
             </div>
             <div class="heading-main-info">
@@ -43,7 +45,6 @@
         </div>
     </div>
 </section>
-
 <section class="section-box mt-50">
     <div class="container">
         <div class="row">
@@ -74,9 +75,7 @@
                                     <h2 class="text-md-bold">Duration in Month </h2>
                                     <p>09-02-2022 to 10-02.2022</p>
                                 </div>
-
                             </div>
-                            
                             <div>
                                 <h2 class="text-md-bold">Project Description</h2>
                                 <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
@@ -102,9 +101,7 @@
                                     <h2 class="text-md-bold">Duration in Month </h2>
                                     <p>09-04-2022 to 10-02.2022</p>
                                 </div>
-
                             </div>
-                            
                             <div>
                                 <h2 class="text-md-bold">Project Description</h2>
                                 <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
@@ -171,7 +168,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="single-apply-jobs">
                     <div class="row align-items-center">
                         <div class="col-md-5">
@@ -182,12 +178,11 @@
                                     src="assets/imgs/theme/icons/share-fb.svg" /> Share</a>
                             <a href="#" class="btn btn-border btn-sm mr-10"><img alt="jobhub"
                                     src="assets/imgs/theme/icons/share-tw.svg" /> Tweet</a>
-                            <a href="#" class="btn btn-border btn-sm"><img alt="jobhub"
-                                    src="assets/imgs/theme/icons/share-pinterest.svg" /> Pin</a>
+                            <a href="#" class="btn btn-border btn-sm">
+                                <img alt="jobhub"  src="assets/imgs/theme/icons/share-pinterest.svg" /> Pin</a>
                         </div>
                     </div>
                 </div>
-
                 <div class="single-recent-jobs">
                     <h4 class="heading-border"><span>Other Jobs</span></h4>
                     <div class="employers-list empoyers-profile mt-30">
@@ -196,8 +191,9 @@
                                 <div class="col-lg-5 col-md-6 d-flex align-items-center">
                                     <div class="employers-logo online mr-15">
                                         <a href="candidates-profile.php">
-                                            <figure><img alt="jobhub"
-                                                    src="assets/imgs/page/candidates/img-candidate.png" /></figure>
+                                            <figure>
+                                              <img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png"/>
+                                            </figure>
                                         </a>
                                     </div>
                                     <div class="employers-name">
@@ -232,11 +228,10 @@
                                 </div>
                                 <div class="col-lg-3 text-center text-lg-end pt-4 pt-lg-0 mt-15">
                                     <div class="card-grid-2-link">
-                                        <a href="#"><i class="fi-rr-shield-check"></i></a>
+                                        <a href="#"> <i class="fi-rr-shield-check"></i> </a>
                                     </div>
-                                    <div class="">
-                                        <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View
-                                            Profile</a>
+                                    <div>
+                                        <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View Profile</a>
                                     </div>
                                 </div>
                             </div>
@@ -246,8 +241,9 @@
                                 <div class="col-lg-5 col-md-6 d-flex align-items-center">
                                     <div class="employers-logo online mr-15">
                                         <a href="candidates-profile.php">
-                                            <figure><img alt="jobhub"
-                                                    src="assets/imgs/page/candidates/img-candidate.png" /></figure>
+                                            <figure>
+                                                <img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" />
+                                            </figure>
                                         </a>
                                     </div>
                                     <div class="employers-name">
@@ -284,9 +280,8 @@
                                     <div class="card-grid-2-link">
                                         <a href="#"><i class="fi-rr-shield-check"></i></a>
                                     </div>
-                                    <div class="">
-                                        <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View
-                                            Profile</a>
+                                    <div>
+                                        <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View  Profile</a>
                                     </div>
                                 </div>
                             </div>
@@ -325,14 +320,10 @@
                             </li>
                         </ul>
                     </div>
-
                     <div class="sidebar-list-job mt-10 text-center">
                         <a href="#" class="btn btn-default">Get a Quote</a>
-                        <!-- <a href="#" class="btn btn-border">Get a Quote</a> -->
                     </div>
-
                 </div>
-
                 <div class="sidebar-shadow">
                     <h5 class="sidebar-title">Skill's</h5>
                     <div class="block-tags">
