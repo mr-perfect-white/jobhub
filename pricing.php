@@ -15,7 +15,7 @@
             </label>
             <span class="text-lg text-billed">Billed Monthly</span>
         </div>
-        <div class="block-pricing mt-125 mt-md-50 pb-50">
+        <div class="block-pricing mt-125 mt-md-50 mb-100 pb-50">
             <div class="row">
                 <div class="col-lg-3 col-md-6 wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
                     <div class="box-pricing-item">
@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
-                    <div class="box-pricing-item">
+                    <div class="box-pricing-item ">
                         <div class="box-info-price">
                             <span class="text-price for-month display-month">$50</span>
                             <span class="text-price for-year">$600</span>
@@ -96,7 +96,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow animate__animated animate__fadeInUp" data-wow-delay=".4s">
-                    <div class="box-pricing-item">
+                    <div class="box-pricing-item ">
                         <div class="box-info-price">
                             <span class="text-price for-month display-month">$200</span>
                             <span class="text-price for-year">$2400</span>
@@ -135,7 +135,7 @@
                 <div class="box-button-shadow mr-20">
                     <a href="contact.php" class="btn btn-default">Contact us</a>
                 </div>
-                <a href="employers.php" class="btn btn-border icon-chevron-right">Learn more</a>
+                <a href="about.php" class="btn btn-border icon-chevron-right">Learn more</a>
             </div>
         </div>
     </div>

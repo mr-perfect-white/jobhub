@@ -9,12 +9,12 @@
                         <div class="banner-description box-mw-70 mt-30">Search and connect with the right candidates
                             faster. This talent seach gives you the opportunity to find candidates who may be a perfect
                             fit for your role</div>
-                        <div class="mt-60">
+                        <!-- <div class="mt-60">
                             <div class="box-button-shadow mr-10">
                                 <a href="contact.php" class="btn btn-default">Contact us</a>
                             </div>
-                            <!-- <a href="#" class="btn">Support center</a> -->
-                        </div>
+                           
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-5 d-none d-lg-block">
@@ -80,6 +80,57 @@
         </div>
     </div>
 </section>
+<div class="section-box">
+    <div class="container">
+        <ul class="list-partners">
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay="0s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/samsung.svg" /></figure>
+                </a>
+            </li>
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".1s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/google.svg" /></figure>
+                </a>
+            </li>
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".2s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/facebook.svg" /></figure>
+                </a>
+            </li>
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".3s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/pinterest.svg" /></figure>
+                </a>
+            </li>
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".4s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/avaya.svg" /></figure>
+                </a>
+            </li>
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".5s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/forbes.svg" /></figure>
+                </a>
+            </li>
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".1s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/avis.svg" /></figure>
+                </a>
+            </li>
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".2s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/nielsen.svg" /></figure>
+                </a>
+            </li>
+            <li class="wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".3s">
+                <a href="#">
+                    <figure><img alt="jobhub" src="assets/imgs/jobs/logos/doordash.svg" /></figure>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
 <section class="section-box mt-90 mt-md-0">
     <div class="container">
         <div class="row justify-content-center">

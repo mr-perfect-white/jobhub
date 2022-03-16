@@ -72,22 +72,6 @@
                                 <span class="text-small">Showing <strong>41-60 </strong>of <strong>944
                                     </strong>Candidate</span>
                             </div>
-                            <div class="col-10 col-xl-5 text-xl-end mt-sm-15">
-                                <div class="display-flex2">
-                                    <span class="text-sortby">Sort by:</span>
-                                    <div class="dropdown dropdown-sort">
-                                        <button class="btn dropdown-toggle" type="button" id="dropdownSort"
-                                            data-bs-toggle="dropdown" aria-expanded="false"
-                                            data-bs-display="static"><span>Newest Post</span> <i
-                                                class="fi-rr-angle-small-down"></i></button>
-                                        <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="dropdownSort">
-                                            <li><a class="dropdown-item active" href="#">Newest Post</a></li>
-                                            <li><a class="dropdown-item" href="#">Oldest Post</a></li>
-                                            <li><a class="dropdown-item" href="#">Rating Post</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
                             <div class="col-2 d-block d-xl-none text-end">
                                 <div id="filter_show-button" class="filter_icon-algin">
                                     <img src="assets/imgs/page/employers/filters.png" class="filter_img-icon">
@@ -108,27 +92,13 @@
                                     <div class="employers-name">
                                         <h5><a href="candidates.php"><strong>Bing Search</strong></a></h5>
                                         <span class="card-job-top--type-job text-sm d-flex align-items-center pt-1"><i
-                                                class="fi-rr-clock pe-1"></i>Full time</span>
-                                        <div class="d-flex mt-5">
-                                            <div class="rate small float-start">
-                                                <input type="radio" id="star5" name="rate" value="5" />
-                                                <label for="star5" title="text" class="checked">5 stars</label>
-                                                <input type="radio" id="star4" name="rate" value="4" />
-                                                <label for="star4" title="text" class="checked">4 stars</label>
-                                                <input type="radio" id="star3" name="rate" value="3" />
-                                                <label for="star3" title="text" class="checked">3 stars</label>
-                                                <input type="radio" id="star2" name="rate" value="2" />
-                                                <label for="star2" title="text" class="checked">2 stars</label>
-                                                <input type="radio" id="star1" name="rate" value="1" />
-                                                <label for="star1" title="text" class="checked">1 star</label>
-                                            </div>
-                                        </div>
+                                                class="fi-rr-clock pe-1"></i>Full time | Part time</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-7 col-md-6">
                                     <div class="employers-info">
-                                        <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Chicago, US</span>
-                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Software</span>
+                                        <span class="mr-20"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Chicago, US</span>
+                                        <span class="mr-20"><i class="align-text-top fi-rr-briefcase mr-5"></i>Software</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 job-tags mt-15">
@@ -136,13 +106,14 @@
                                     <a href="candidates-grid.html" class="hover-up">CSS3</a>
                                     <a href="candidates-grid.html" class="hover-up">REACT</a>
                                     <a href="candidates-grid.html" class="hover-up">PHP</a>
+                                    <a href="candidates-grid.html" class="hover-up">More+</a>
                                 </div>
                                 <div class="col-lg-3 text-center text-lg-end pt-4 pt-lg-0 mt-15">
                                     <div class="card-grid-2-link">
                                         <a href="#"><i class="fi-rr-shield-check"></i></a>
                                     </div>
                                     <div class="">
-                                        <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">12 Open Jobs</a>
+                                        <a href="candidates.php" class="btn btn-border btn-brand-hover">Available (4)</a>
                                     </div>
                                 </div>
                             </div>
@@ -159,27 +130,13 @@
                                     <div class="employers-name">
                                         <h5><a href="candidates.php"><strong>LinkedIN</strong></a></h5>
                                         <span class="card-job-top--type-job text-sm d-flex align-items-center pt-1"><i
-                                                class="fi-rr-clock pe-1"></i>Part time</span>
-                                        <div class="d-flex mt-5">
-                                            <div class="rate small float-start">
-                                                <input type="radio" id="star5" name="rate" value="5" />
-                                                <label for="star5" title="text" class="checked">5 stars</label>
-                                                <input type="radio" id="star4" name="rate" value="4" />
-                                                <label for="star4" title="text" class="checked">4 stars</label>
-                                                <input type="radio" id="star3" name="rate" value="3" />
-                                                <label for="star3" title="text" class="checked">3 stars</label>
-                                                <input type="radio" id="star2" name="rate" value="2" />
-                                                <label for="star2" title="text" class="checked">2 stars</label>
-                                                <input type="radio" id="star1" name="rate" value="1" />
-                                                <label for="star1" title="text" class="checked">1 star</label>
-                                            </div>
-                                        </div>
+                                                class="fi-rr-clock pe-1"></i>Part time | Full Time</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-7 col-md-6">
                                     <div class="employers-info">
-                                        <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Chicago, US</span>
-                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Software</span>
+                                        <span class="mr-20"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Chicago, US</span>
+                                        <span class="mr-20"><i class="align-text-top fi-rr-briefcase mr-5"></i>Software</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 job-tags mt-15">
@@ -187,14 +144,14 @@
                                     <a href="candidates-grid.html" class="hover-up">CSS3</a>
                                     <a href="candidates-grid.html" class="hover-up">ANGULAR</a>
                                     <a href="candidates-grid.html" class="hover-up">REACT</a>
-                                    <a href="candidates-grid.html" class="hover-up">PHYTHON</a>
+                                    <a href="candidates-grid.html" class="hover-up">More +</a>
                                 </div>
                                 <div class="col-lg-3 text-center text-lg-end pt-4 pt-lg-0 mt-15">
                                     <div class="card-grid-2-link">
                                         <a href="#"><i class="fi-rr-shield-check"></i></a>
                                     </div>
                                     <div class="">
-                                        <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">12 Open Jobs</a>
+                                        <a href="candidates.php" class="btn btn-border btn-brand-hover"> Available (4) </a>
                                     </div>
                                 </div>
                             </div>
@@ -226,27 +183,20 @@
                     <div class="sidebar-shadow none-shadow mb-30">
                         <div class="sidebar-filters">
                             <div class="filter-block mb-30">
-                                <h5 class="medium-heading mb-15">Location</h5>
-                                <div class="form-group">
-                                    <input type="text" class="form-control form-icons" placeholder="Location" />
-                                    <i class="fi-rr-marker"></i>
-                                </div>
-                            </div>
-                            <div class="filter-block mb-30">
-                                <h5 class="medium-heading mb-15">Categoy</h5>
+                                <h5 class="medium-heading mb-15">Select Skills</h5>
                                 <div class="form-group select-style select-style-icon">
                                     <select class="form-control form-icons select-active">
-                                        <option>Ui/UX design</option>
-                                        <option>Ui/UX design 1</option>
-                                        <option>Ui/UX design 2</option>
-                                        <option>Ui/UX design 3</option>
+                                        <option>UI</option>
+                                        <option>Laravel</option>
+                                        <option>Angular</option>
+                                        <option>UI/UX</option>
                                     </select>
                                     <i class="fi-rr-briefcase"></i>
                                 </div>
                             </div>
-                            <div class="filter-block mb-30">
+                            <div class="filter-block mb-10">
                                 <h5 class="medium-heading mb-15">Job type</h5>
-                                <div class="form-group">
+                                <div class="form-group mb-0">
                                     <ul class="list-checkbox">
                                         <li>
                                             <label class="cb-container">

@@ -41,20 +41,20 @@
                                 <li class="">
                                     <a class="a-arrow active" href="index.php">Home</a>
                                 </li>
-                                <li class="">
-                                    <a href="about.php">About Us</a>
+                                <li class="">   
+                                    <a href="about.php">About</a>
                                 </li>
                                 <li class="">
-                                    <a href="employers.php">Employers</a>
+                                    <a href="employers.php">Hire Developers</a>
                                 </li>
                                 <li class="">
-                                    <a href="pricing.php">Pricing</a>
+                                    <a href="requirement.php">Requirements</a>
                                 </li>
                                 <li class="">
                                     <a href="contact.php">Contact Us</a>
                                 </li>
                                 <li class="">
-                                    <a href="faq.php">FAQ</a>
+                                    <a href="pricing.php">Pricing</a>
                                 </li>
                             </ul>
                         </nav>
@@ -67,8 +67,8 @@
                 </div>
                 <div class="header-right">
                     <div class="block-signin">
-                        <a href="#" class="text-link-bd-btom hover-up">Apply Now</a>
-                        <a href="sign-in.php" class="btn btn-default btn-shadow ml-40 me-xl-0 me-lg-5 hover-up">Sign in</a>
+                        <!-- <a href="#" class="text-link-bd-btom hover-up">Apply Now</a> -->
+                        <a href="sign-in.php" class="btn sign-btn-up btn-default btn-shadow ml-40 me-xl-0 me-lg-5 hover-up">Sign Up</a>
                     </div>
                 </div>
             </div>
@@ -87,12 +87,6 @@
             </div>
             <div class="mobile-header-content-area">
                 <div class="perfect-scroll">
-                    <div class="mobile-search mobile-header-border mb-30">
-                        <form action="#">
-                            <input type="text" class="h-auto" placeholder="Search for items…" />
-                            <i class="fi-rr-search"></i>
-                        </form>
-                    </div>
                     <div class="mobile-menu-wrap mobile-header-border">
                         <nav>
                             <ul class="mobile-menu font-heading">
@@ -105,17 +99,17 @@
                                     
                                 </li>
                                 <li class="has-children">
-                                    <a href="employers.php">Employers</a>
+                                  <a href="employers.php">Hire Developers</a>
                                    
                                 </li>
                                 <li class="has-children">
-                                    <a href="pricing.php">Pricing</a>
+                                    <a href="requirement.php">Requirements</a>
                                 </li>
                                 <li class="has-children">
                                     <a href="contact.php">Contact Us</a>
                                 </li>
                                 <li class="has-children">
-                                    <a href="faq.php">FAQ</a>
+                                    <a href="pricing.php">Pricing</a>
                                 </li>
                             </ul>
                         </nav>

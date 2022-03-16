@@ -298,135 +298,143 @@
         </div>
     </div>
 </section>
-<section class="section-box mt-50 our-benifi-section-home">
+<section class="section-box wow animate__animated animate__fadeIn mt-10">
+    <div class="container">
+        <div class="box-swiper">
+            <div class="swiper-container swiper-group-6">
+                <div class="swiper-wrapper pb-30 pt-5">
+                    <div class="swiper-slide hover-up">
+                        <div class="item-logo"><img alt="jobhub"
+                                    src="assets/imgs/slider/logo/google.svg" /></div>
+                    </div>
+                    <div class="swiper-slide hover-up">
+                        <div class="item-logo"><img alt="jobhub"
+                                    src="assets/imgs/slider/logo/airbnb.svg" /></div>
+                    </div>
+                    <div class="swiper-slide hover-up">
+                        <div class="item-logo"><img alt="jobhub"
+                                    src="assets/imgs/slider/logo/dropbox.svg" /></div>
+                    </div>
+                    <div class="swiper-slide hover-up">
+                        <div class="item-logo"><img alt="jobhub"
+                                    src="assets/imgs/slider/logo/fedex.svg" /></div>
+                    </div>
+                    <div class="swiper-slide hover-up">
+                        <div class="item-logo"><img alt="jobhub"
+                                    src="assets/imgs/slider/logo/wallmart.svg" /></div>
+                    </div>
+                    <div class="swiper-slide hover-up">
+                        <div class="item-logo"><img alt="jobhub"
+                                    src="assets/imgs/slider/logo/hubspot.svg" /></div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </div>
+</section>
+<section class="section-box mt-40">
     <div class="container">
         <div class="row align-items-end">
-            <div class="col-lg-12 text-center ">
-                <h2 class="section-title mb-20 wow animate__animated animate__fadeInUp">Our Benefits</h2>
-                <p class="text-md-lh28 color-black-5 wow animate__animated animate__fadeInUp box-mw-60">Find the type of work
+            <div class="col-lg-7">
+                <h2 class="section-title mb-20 wow animate__animated animate__fadeInUp">Browse by category</h2>
+                <p class="text-md-lh28 color-black-5 wow animate__animated animate__fadeInUp">Find the type of work
                     you need, clearly defined and ready to start. Work begins as soon as you purchase and provide
                     requirements.</p>
             </div>
+           
         </div>
         <div class="row mt-70">
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="card-grid hover-up wow animate__animated animate__fadeInUp">
                     <div class="text-center">
-                        <a href="job-grid.html">
+                        <a href="#">
                             <figure><img alt="jobhub" src="assets/imgs/theme/icons/marketing.svg" /></figure>
                         </a>
                     </div>
-                    <h5 class="text-center mt-20 card-heading"><a href="job-grid.html">Marketing & Communication</a>
+                    <h5 class="text-center mt-20 card-heading"><a href="#">Marketing & Communication</a>
                     </h5>
-                    <p class="text-center text-stroke-40 mt-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    </p>
+                    <p class="text-center text-stroke-40 mt-20">156 Available Vacancy</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="card-grid hover-up wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
                     <div class="text-center">
-                        <a href="job-grid.html">
+                        <a href="#">
                             <figure><img alt="jobhub" src="assets/imgs/theme/icons/content-writer.svg" /></figure>
                         </a>
                     </div>
-                    <h5 class="text-center mt-20 card-heading"><a href="job-grid.html">Content <br>Writer</a></h5>
-                    <p class="text-center text-stroke-40 mt-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                    <h5 class="text-center mt-20 card-heading"><a href="#">Content <br>Writer</a></h5>
+                    <p class="text-center text-stroke-40 mt-20">268 Available Vacancy</p>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 col-12 wow animate__animated animate__fadeInUp"
-                data-wow-delay=".2s">
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12 wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
                 <div class="card-grid hover-up">
                     <div class="text-center">
-                        <a href="job-grid.html">
+                        <a href="#">
                             <figure><img src="assets/imgs/theme/icons/marketing-director.svg" alt="jobhub" /></figure>
                         </a>
                     </div>
-                    <h5 class="text-center mt-20 card-heading"><a href="job-grid.html">Marketing <br>Director</a></h5>
-                    <p class="text-center text-stroke-40 mt-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        </p>
+                    <h5 class="text-center mt-20 card-heading"><a href="#">Marketing <br>Director</a></h5>
+                    <p class="text-center text-stroke-40 mt-20">145 Available Vacancy</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="card-grid hover-up wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
                     <div class="text-center">
-                        <a href="job-grid.html">
+                        <a href="#">
                             <figure><img src="assets/imgs/theme/icons/system-analyst.svg" alt="jobhub" /></figure>
                         </a>
                     </div>
-                    <h5 class="text-center mt-20 card-heading"><a href="job-grid.html">System <br>Analyst</a></h5>
-                    <p class="text-center text-stroke-40 mt-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <h5 class="text-center mt-20 card-heading"><a href="#">System <br>Analyst</a></h5>
+                    <p class="text-center text-stroke-40 mt-20">236 Available Vacancy</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="card-grid hover-up wow animate__animated animate__fadeInUp">
                     <div class="text-center">
-                        <a href="job-grid.html">
+                        <a href="#">
                             <figure><img src="assets/imgs/theme/icons/business-development.svg" alt="jobhub" /></figure>
                         </a>
                     </div>
-                    <h5 class="text-center mt-20 card-heading"><a href="job-grid.html">Digital<br> Designer</a></h5>
-                    <p class="text-center text-stroke-40 mt-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <h5 class="text-center mt-20 card-heading"><a href="#">Digital<br> Designer</a></h5>
+                    <p class="text-center text-stroke-40 mt-20">56 Available Vacancy</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="card-grid hover-up wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
                     <div class="text-center">
-                        <a href="job-grid.html">
+                        <a href="#">
                             <figure><img src="assets/imgs/theme/icons/proof-reading.svg" alt="jobhub" /></figure>
                         </a>
                     </div>
-                    <h5 class="text-center mt-20 card-heading"><a href="job-grid.html">Market <br>Research</a></h5>
-                    <p class="text-center text-stroke-40 mt-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <h5 class="text-center mt-20 card-heading"><a href="#">Market <br>Research</a></h5>
+                    <p class="text-center text-stroke-40 mt-20">168 Available Vacancy</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="card-grid hover-up wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
                     <div class="text-center card-img">
-                        <a href="job-grid.html">
+                        <a href="#">
                             <figure>
                                 <img src="assets/imgs/theme/icons/testing.svg" alt="jobhub" />
                             </figure>
                         </a>
                     </div>
-                    <h5 class="text-center mt-20 card-heading"><a href="job-grid.html">Human<br> Resource</a></h5>
-                    <p class="text-center text-stroke-40 mt-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <h5 class="text-center mt-20 card-heading"><a href="#">Human<br> Resource</a></h5>
+                    <p class="text-center text-stroke-40 mt-20">628 Available Vacancy</p>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 col-12 wow animate__animated animate__fadeInUp"
-                data-wow-delay=".2s">
-                <div class="card-grid hover-up">
-                    <div class="text-center">
-                        <a href="job-grid.html">
-                            <figure><img src="assets/imgs/theme/icons/marketing-director.svg" alt="jobhub" /></figure>
-                        </a>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="card-grid hover-up wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
+                    <div class="text-center mt-15">
+                        <h3>18,265+</h3>
                     </div>
-                    <h5 class="text-center mt-20 card-heading"><a href="job-grid.html">Marketing <br>Director</a></h5>
-                    <p class="text-center text-stroke-40 mt-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-box mt-50 mb-70 bg-patern">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-sm-12">
-                <div class="content-job-inner">
-                    <h2 class="section-title heading-lg wow animate__animated animate__fadeInUp">Create free count and start apply your dream job today</h2>
-                    <div class="mt-40 pr-50 text-md-lh28 wow animate__animated animate__fadeInUp">Search and connect
-                        with the right candidates faster. This talent seach gives you the opportunity to find candidates
-                        who may be a perfect fit for your role</div>
-                    <div class="mt-40">
-                        <div class="box-button-shadow wow animate__animated animate__fadeInUp"><a href="employers.php"
-                                class="btn btn-default">Post a job now</a></div>
-                        <!-- <a href="#" class="btn btn-link wow animate__animated animate__fadeInUp">Learn more</a> -->
+                    <p class="text-center mt-30 text-stroke-40">Jobs are waiting for you</p>
+                    <div class="text-center mt-30">
+                        <div class="box-button-shadow"><a href="#" class="btn btn-default">Explore more</a></div>
                     </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-sm-12">
-                <div class="box-image-job">
-                    <figure class=" wow animate__animated animate__fadeIn"><img alt="jobhub"
-                            src="assets/imgs/blog/img-job.png" /></figure>
                 </div>
             </div>
         </div>
@@ -442,2521 +450,1855 @@
             </div>
             <div class="col-lg-8 text-xl-end text-start">
                 <ul class="nav nav-right float-xl-end float-start" role="tablist">
-                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".1s"><button id="nav-tab-one-1"
-                            data-bs-toggle="tab" data-bs-target="#tab-one-1" type="button" role="tab"
-                            aria-controls="tab-one-1" aria-selected="true" class="active">React Js</button></li>
-                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".2s"><button id="nav-tab-two-1"
-                            data-bs-toggle="tab" data-bs-target="#tab-two-1" type="button" role="tab"
-                            aria-controls="tab-two-1" aria-selected="false">Angular</button></li>
-                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".3s"><button id="nav-tab-three-1"
-                            data-bs-toggle="tab" data-bs-target="#tab-three-1" type="button" role="tab"
-                            aria-controls="tab-three-1" aria-selected="false">PHP</button></li>
-                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".4s"><button id="nav-tab-four-1"
-                            data-bs-toggle="tab" data-bs-target="#tab-four-1" type="button" role="tab"
-                            aria-controls="tab-four-1" aria-selected="false">Java</button></li>
-                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".5s"><button id="nav-tab-five-1"
-                            data-bs-toggle="tab" data-bs-target="#tab-five-1" type="button" role="tab"
-                            aria-controls="tab-five-1" aria-selected="false">Wordpress</button></li>
-                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".6s"><button id="nav-tab-six-1"
-                            data-bs-toggle="tab" data-bs-target="#tab-six-1" type="button" role="tab"
-                            aria-controls="tab-six-1" aria-selected="false">Python</button></li>
+                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".1s"><button id="nav-tab-one-1" data-bs-toggle="tab" data-bs-target="#tab-one-1" type="button" role="tab" aria-controls="tab-one-1" aria-selected="true" class="active">Design</button></li>
+                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".2s"><button id="nav-tab-two-1" data-bs-toggle="tab" data-bs-target="#tab-two-1" type="button" role="tab" aria-controls="tab-two-1" aria-selected="false">Marketing</button></li>
+                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".3s"><button id="nav-tab-three-1" data-bs-toggle="tab" data-bs-target="#tab-three-1" type="button" role="tab" aria-controls="tab-three-1" aria-selected="false">Design</button></li>
+                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".4s"><button id="nav-tab-four-1" data-bs-toggle="tab" data-bs-target="#tab-four-1" type="button" role="tab" aria-controls="tab-four-1" aria-selected="false">Service</button></li>
+                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".5s"><button id="nav-tab-five-1" data-bs-toggle="tab" data-bs-target="#tab-five-1" type="button" role="tab" aria-controls="tab-five-1" aria-selected="false">Health Care</button></li>
+                    <li class="wow animate__animated animate__fadeIn" data-wow-delay=".6s"><button id="nav-tab-six-1" data-bs-toggle="tab" data-bs-target="#tab-six-1" type="button" role="tab" aria-controls="tab-six-1" aria-selected="false">Writing</button></li>
                 </ul>
             </div>
         </div>
         <div class="mt-70">
             <div class="tab-content" id="myTabContent-1">
                 <div class="tab-pane fade show active" id="tab-one-1" role="tabpanel" aria-labelledby="tab-one-1">
-                    <div class="row">
-                        <div class="col-lg-4 mt-35  col-md-6">
+                    <div class="row ">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates-single.html">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img src="assets/imgs/jobs/job-1.png" alt="jobhub" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates-single.html"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img src="assets/imgs/jobs/logos/logo-1.svg" alt="jobhub" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Senior Full Stack Engineer, Creator Success Full Time</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $3200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img src="assets/imgs/theme/icons/shield-check.svg" alt="jobhub" /></span>
+                                                <span class="ml-5"><img src="assets/imgs/theme/icons/bookmark.svg" alt="jobhub" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate2.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img src="assets/imgs/jobs/job-2.png" alt="jobhub" /></figure>
                                     </a>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img src="assets/imgs/jobs/logos/logo-2.svg" alt="jobhub" /></span> <span>Gucci</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A professional Facebook cover photo banner design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $1200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img src="assets/imgs/theme/icons/shield-check.svg" alt="jobhub" /></span>
+                                                <span class="ml-5"><img src="assets/imgs/theme/icons/bookmark.svg" alt="jobhub" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate3.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img src="assets/imgs/jobs/job-3.png" alt="jobhub" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img src="assets/imgs/jobs/logos/logo-3.svg" alt="jobhub" /></span> <span>Versace</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Unique and aesthetic Instagram post images</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $2600<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img src="assets/imgs/theme/icons/shield-check.svg" alt="jobhub" /></span>
+                                                <span class="ml-5"><img src="assets/imgs/theme/icons/bookmark.svg" alt="jobhub" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate4.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img src="assets/imgs/jobs/job-4.png" alt="jobhub" /></figure>
                                     </a>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img src="assets/imgs/jobs/logos/logo-4.svg" alt="jobhub" /></span> <span>Hermes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Premium quality Instagram post and stories</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img src="assets/imgs/theme/icons/shield-check.svg" alt="jobhub" /></span>
+                                                <span class="ml-5"><img src="assets/imgs/theme/icons/bookmark.svg" alt="jobhub" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate5.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img src="assets/imgs/jobs/job-5.png" alt="jobhub" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img src="assets/imgs/jobs/logos/logo-5.svg" alt="jobhub" /></span> <span>Burberry</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">An amazing facebook banner, cover design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $125<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img src="assets/imgs/theme/icons/shield-check.svg" alt="jobhub" /></span>
+                                                <span class="ml-5"><img src="assets/imgs/theme/icons/bookmark.svg" alt="jobhub" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate6.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img src="assets/imgs/jobs/job-6.png" alt="jobhub" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img src="assets/imgs/jobs/logos/logo-6.svg" alt="jobhub" /></span> <span>Louis Vuitton</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A complete social media business pages setup</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img src="assets/imgs/theme/icons/shield-check.svg" alt="jobhub" /></span>
+                                                <span class="ml-5"><img src="assets/imgs/theme/icons/bookmark.svg" alt="jobhub" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate7.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate8.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate9.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="paginations">
-                            <ul class="pager">
-                                <li><a href="#" class="pager-prev"></a></li>
-                                <li><a href="#" class="pager-number">1</a></li>
-                                <li><a href="#" class="pager-number">2</a></li>
-                                <li><a href="#" class="pager-number">3</a></li>
-                                <li><a href="#" class="pager-number">4</a></li>
-                                <li><a href="#" class="pager-number">5</a></li>
-                                <li><a href="#" class="pager-number active">6</a></li>
-                                <li><a href="#" class="pager-number">7</a></li>
-                                <li><a href="#" class="pager-next"></a></li>
-                            </ul>
                         </div>
                     </div>
                 </div>
                 <div class="tab-pane fade" id="tab-two-1" role="tabpanel" aria-labelledby="tab-two-1">
                     <div class="row">
-                    <div class="col-lg-4 mt-35  col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates-single.html">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img src="assets/imgs/jobs/job-7.png" alt="jobhub" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent22</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates-single.html"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img src="assets/imgs/jobs/logos/logo-1.svg" alt="jobhub" /></span> <span>Levis</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Senior Full Stack Engineer, Creator Success Full Time</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">35 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $4200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img src="assets/imgs/theme/icons/shield-check.svg" alt="jobhub" /></span>
+                                                <span class="ml-5"><img src="assets/imgs/theme/icons/bookmark.svg" alt="jobhub" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate2.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img src="assets/imgs/jobs/job-8.png" alt="jobhub" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img src="assets/imgs/jobs/logos/logo-2.svg" alt="jobhub" /></span> <span>Armani</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A professional Facebook cover photo banner design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $1200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img src="assets/imgs/theme/icons/bookmark.svg" alt="jobhub" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate3.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-9.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-3.svg" /></span> <span>Prada</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Unique and aesthetic Instagram post images</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $2600<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate4.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-10.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-4.svg" /></span> <span>Adidas</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Premium quality Instagram post and stories</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate5.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-1.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-5.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">An amazing facebook banner, cover design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $125<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate6.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-2.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-6.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A complete social media pages setup for your business.</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate7.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate8.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate9.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="paginations">
-                            <ul class="pager">
-                                <li><a href="#" class="pager-prev"></a></li>
-                                <li><a href="#" class="pager-number">1</a></li>
-                                <li><a href="#" class="pager-number">2</a></li>
-                                <li><a href="#" class="pager-number">3</a></li>
-                                <li><a href="#" class="pager-number">4</a></li>
-                                <li><a href="#" class="pager-number">5</a></li>
-                                <li><a href="#" class="pager-number active">6</a></li>
-                                <li><a href="#" class="pager-number">7</a></li>
-                                <li><a href="#" class="pager-next"></a></li>
-                            </ul>
-                        </div>
-                       
                     </div>
                 </div>
                 <div class="tab-pane fade" id="tab-three-1" role="tabpanel" aria-labelledby="tab-three-1">
                     <div class="row">
-                    <div class="col-lg-4 mt-35  col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates-single.html">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-1.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates-single.html"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-1.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Senior Full Stack Engineer, Creator Success Full Time</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">39 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $5200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate2.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-2.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-2.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A professional Facebook cover photo banner design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $1200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate3.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-3.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-3.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Unique and aesthetic Instagram post images</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $2600<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate4.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-4.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-4.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Premium quality Instagram post and stories</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate5.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-5.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-5.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">An amazing facebook banner, cover design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $125<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate6.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-6.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-6.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A complete social media pages setup for your business.</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate7.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate8.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate9.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="paginations">
-                            <ul class="pager">
-                                <li><a href="#" class="pager-prev"></a></li>
-                                <li><a href="#" class="pager-number">1</a></li>
-                                <li><a href="#" class="pager-number">2</a></li>
-                                <li><a href="#" class="pager-number">3</a></li>
-                                <li><a href="#" class="pager-number">4</a></li>
-                                <li><a href="#" class="pager-number">5</a></li>
-                                <li><a href="#" class="pager-number active">6</a></li>
-                                <li><a href="#" class="pager-number">7</a></li>
-                                <li><a href="#" class="pager-next"></a></li>
-                            </ul>
-                        </div>
-                       
                     </div>
                 </div>
                 <div class="tab-pane fade" id="tab-four-1" role="tabpanel" aria-labelledby="tab-four-1">
                     <div class="row">
-                    <div class="col-lg-4 mt-35  col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates-single.html">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-1.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates-single.html"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-1.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Senior Full Stack Engineer, Creator Success Full Time</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">53 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $700<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate2.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-2.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-2.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A professional Facebook cover photo banner design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $1200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate3.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-3.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-3.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Unique and aesthetic Instagram post images</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $2600<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate4.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-4.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-4.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Premium quality Instagram post and stories</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate5.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-5.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-5.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">An amazing facebook banner, cover design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $125<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate6.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-6.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-6.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A complete social media pages setup for your business.</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate7.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate8.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate9.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="paginations">
-                            <ul class="pager">
-                                <li><a href="#" class="pager-prev"></a></li>
-                                <li><a href="#" class="pager-number">1</a></li>
-                                <li><a href="#" class="pager-number">2</a></li>
-                                <li><a href="#" class="pager-number">3</a></li>
-                                <li><a href="#" class="pager-number">4</a></li>
-                                <li><a href="#" class="pager-number">5</a></li>
-                                <li><a href="#" class="pager-number active">6</a></li>
-                                <li><a href="#" class="pager-number">7</a></li>
-                                <li><a href="#" class="pager-next"></a></li>
-                            </ul>
-                        </div>
-                        
                     </div>
                 </div>
                 <div class="tab-pane fade" id="tab-five-1" role="tabpanel" aria-labelledby="tab-five-1">
                     <div class="row">
-                    <div class="col-lg-4 mt-35  col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates-single.html">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-1.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates-single.html"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-1.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Senior Full Stack Engineer, Creator Success Full Time</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">46 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $800<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate2.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-2.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-2.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A professional Facebook cover photo banner design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $1200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate3.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-3.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-3.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Unique and aesthetic Instagram post images</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $2600<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate4.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-4.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-4.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Premium quality Instagram post and stories</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate5.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-5.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-5.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">An amazing facebook banner, cover design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $125<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate6.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-6.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-6.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A complete social media pages setup for your business.</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate7.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate8.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate9.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="paginations">
-                            <ul class="pager">
-                                <li><a href="#" class="pager-prev"></a></li>
-                                <li><a href="#" class="pager-number">1</a></li>
-                                <li><a href="#" class="pager-number">2</a></li>
-                                <li><a href="#" class="pager-number">3</a></li>
-                                <li><a href="#" class="pager-number">4</a></li>
-                                <li><a href="#" class="pager-number">5</a></li>
-                                <li><a href="#" class="pager-number active">6</a></li>
-                                <li><a href="#" class="pager-number">7</a></li>
-                                <li><a href="#" class="pager-next"></a></li>
-                            </ul>
-                        </div>
-                       
                     </div>
                 </div>
                 <div class="tab-pane fade" id="tab-six-1" role="tabpanel" aria-labelledby="tab-six-1">
                     <div class="row">
-                    <div class="col-lg-4 mt-35  col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates-single.html">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-1.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates-single.html"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-1.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Senior Full Stack Engineer, Creator Success Full Time</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $3200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate2.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-2.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-2.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A professional Facebook cover photo banner design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $1200<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate3.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-3.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-3.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Unique and aesthetic Instagram post images</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $2600<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate4.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-4.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-4.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">Premium quality Instagram post and stories</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate5.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-5.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-5.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">An amazing facebook banner, cover design</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $125<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
+                        <div class="col-lg-4 col-md-6 mt-30">
                             <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate6.png" /></figure>
+                                <div class="text-center card-grid-2-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/jobs/job-6.png" /></figure>
                                     </a>
+                                    <label class="btn-urgent">Urgent</label>
                                 </div>
                                 <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
+                                    <div class="row">
+                                        <div class="col-lg-7 col-6">
+                                            <a href="#" class="card-2-img-text">
+                                                <span class="card-grid-2-img-small"><img alt="jobhub" src="assets/imgs/jobs/logos/logo-6.svg" /></span> <span>Alithemes</span>
+                                            </a>
+                                        </div>
+                                        <div class="col-lg-5 col-6 text-end">
+                                            <a href="#" class="btn btn-grey-small disc-btn">Fulltime</a>
                                         </div>
                                     </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
+                                    <h5 class="mt-10"><a href="#">A complete social media pages setup for your business.</a></h5>
+                                    <div class="mt-15">
+                                        <span class="card-time">3 mins ago</span>
+                                        <span class="card-location">Chicago</span>
                                     </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
+                                    <div class="card-2-bottom mt-30">
+                                        <div class="row">
+                                            <div class="col-lg-7 col-8">
+                                                <span class="card-text-price"> $120<span>/Month</span> </span>
+                                            </div>
+                                            <div class="col-lg-5 col-4 text-end">
+                                                <span><img alt="jobhub" src="assets/imgs/theme/icons/shield-check.svg" /></span>
+                                                <span class="ml-5"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd online">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate7.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate8.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mt-35 col-md-6">
-                            <div class="card-grid-2 hover-up">
-                                <div class="card-grid-2-link">
-                                    <a href="#"><i class="fi-rr-shield-check"></i></a>
-                                    <a href="#"><i class="fi-rr-bookmark"></i></a>
-                                </div>
-                                <div class="text-center card-grid-2-image-rd">
-                                    <a href="candidates.php">
-                                        <figure><img alt="jobhub" src="assets/imgs/page/candidates/img-candidate9.png" /></figure>
-                                    </a>
-                                </div>
-                                <div class="card-block-info">
-                                    <div class="card-profile">
-                                        <a href="candidates.php"><strong>Esther Howard</strong></a>
-                                        <span class="text-sm">UI/UX Designer</span>
-                                        <div class="rate-reviews-small">
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                                            <span class="ml-10 text-muted text-small">(5.0)</span>
-                                        </div>
-                                    </div>
-                                    <div class="employers-info d-flex align-items-center justify-content-center mt-15">
-                                        <span class="d-flex align-items-center"><i class="fi-rr-marker mr-5 ml-0"></i> Chicago, US</span>
-                                        <span class="d-flex align-items-center ml-25"><i class="fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                    <div class="card-2-bottom card-2-bottom-candidate mt-30">
-                                        <div class="text-center">
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
-                                            <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
-                                        </div>
-                                        <div class="text-center mt-25 mb-5">
-                                            <a href="candidates.php" class="btn btn-border btn-brand-hover">View profile</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="paginations">
-                            <ul class="pager">
-                                <li><a href="#" class="pager-prev"></a></li>
-                                <li><a href="#" class="pager-number">1</a></li>
-                                <li><a href="#" class="pager-number">2</a></li>
-                                <li><a href="#" class="pager-number">3</a></li>
-                                <li><a href="#" class="pager-number">4</a></li>
-                                <li><a href="#" class="pager-number">5</a></li>
-                                <li><a href="#" class="pager-number active">6</a></li>
-                                <li><a href="#" class="pager-number">7</a></li>
-                                <li><a href="#" class="pager-next"></a></li>
-                            </ul>
-                        </div>
-                        
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="section-box mt-90 mb-80">
-            <div class="container">
-                <div class="block-job-bg block-job-bg-homepage-2">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-12 col-sm-12 col-12 d-none d-md-block">
-                            <div class="box-image-findjob findjob-homepage-2 ml-0 wow animate__animated animate__fadeIn">
-                                <figure><img alt="jobhub" src="assets/imgs/page/about/img-findjob.png" /></figure>
+<section class="section-box mt-50 mb-70 bg-patern">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-sm-12">
+                <div class="content-job-inner">
+                    <h2 class="section-title heading-lg wow animate__animated animate__fadeInUp">The #1 Job Board for Graphic Design Jobs</h2>
+                    <div class="mt-40 pr-50 text-md-lh28 wow animate__animated animate__fadeInUp">Search and connect with the right candidates faster. This talent seach gives you the opportunity to find candidates who may be a perfect fit for your role</div>
+                    <div class="mt-40">
+                        <div class="box-button-shadow wow animate__animated animate__fadeInUp"><a href="#" class="btn btn-default">Post a job now</a></div>
+                        <a href="#" class="btn btn-link wow animate__animated animate__fadeInUp">Learn more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-sm-12">
+                <div class="box-image-job">
+                    <figure class=" wow animate__animated animate__fadeIn"><img alt="jobhub" src="assets/imgs/blog/img-job.png" /></figure>
+                    <div class="job-top-creator">
+                        <div class="job-top-creator-head">
+                            <h5>Top Freelancers</h5>
+                        </div>
+                        <ul>
+                            <li>
+                                <div>
+                                    <figure><img alt="jobhub" src="assets/imgs/avatar/ava_13.png" /></figure>
+                                    <div class="job-info-creator">
+                                        <strong>Kate Adie</strong>
+                                        <span>UI/UX Designer</span>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <figure><img alt="jobhub" src="assets/imgs/avatar/ava_14.png" /></figure>
+                                    <div class="job-info-creator">
+                                        <strong>John Lennon</strong>
+                                        <span>Senior Art Director</span>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <figure><img alt="jobhub" src="assets/imgs/avatar/ava_15.png" /></figure>
+                                    <div class="job-info-creator">
+                                        <strong>Nadine Coyle</strong>
+                                        <span>Photographer</span>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <figure><img alt="jobhub" src="assets/imgs/avatar/ava_16.png" /></figure>
+                                    <div class="job-info-creator">
+                                        <strong>Sarah Harding</strong>
+                                        <span>Motion Designer</span>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-box mt-90 mb-50 mb-md-0 section-how-work-team">
+    <div class="container">
+        <h2 class="section-title mb-15 wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">How it  works</h2>
+        <div class="text-md-lh24 color-black-5 wow animate__ animate__fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+            When it comes to choosing the right web hosting provider, we know how easy it is to get overwhelmed
+            with the number.
+        </div>
+        <div class="row mt-60">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12 ">
+                <div class="card-none-bd   " data-wow-delay=".0s">
+                    <div class="block-image">
+                        <figure>
+                            <!-- <hr class="line-arrow"> -->
+                            <div class="line-arrow"></div>
+                            <img alt="jobhub" src="assets/imgs/page/services/ready-project.svg" />
+                        </figure>
+                    </div>
+                    <div class="card-info-bottom">
+                        
+                        <strong>Ready perfect jobs</strong>
+                        <p class="text-mutted">A place to think and track ideas</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12 ">
+                <div class="card-none-bd    " data-wow-delay=".1s">
+                    <div class="block-image">
+                        <!-- <hr class="line-arrow"> -->
+                        
+                        <figure>
+                                <div class="line-arrow"></div>
+                            <img alt="jobhub" src="assets/imgs/page/services/candidate-call.svg" />
+                        </figure>
+                    </div>
+                    <div class="card-info-bottom">
+                        
+                        <strong>Candidate calls</strong>
+                        <p class="text-mutted">A place to think and track ideas</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card-none-bd   " data-wow-delay=".3s">
+                    <div class="block-image">
+                        
+                        <figure><img alt="jobhub" src="assets/imgs/page/services/complete-jobs.svg" /></figure>
+                    </div>
+                    <div class="card-info-bottom">
+                        
+                        <strong>Complete Jobs</strong>
+                        <p class="text-mutted">A place to think and track ideas</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-box mt-70">
+    <div class="container">
+        <h2 class="section-title mb-15 wow animate__animated animate__fadeInUp">Our Happy Customer</h2>
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="text-md-lh24 color-black-5 wow animate__animated animate__fadeInUp">
+                    When it comes to choosing the right web hosting provider, we know how easy it is to get overwhelmed
+                    with the number.
+                </div>
+            </div>
+        </div>
+        <div class="row mt-50">
+            <div class="box-swiper">
+                <div class="swiper-container swiper-group-2">
+                    <div class="swiper-wrapper pb-70 pt-5">
+                        <div class="swiper-slide">
+                            <div class="card-two-collumn hover-up">
+                                <div class="text-center card-grid-3-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/page/services/profile.png" /></figure>
+                                    </a>
+                                </div>
+                                <div class="card-block-info quote-left mt-10">
+                                     <h5 class="heading-md font-semibold mb-20 ">Design Quality Customer</h5>
+                                     <div class="customer-content-box">
+                                       <p class="text-md">Our creative strategy is focused on inspiring customers to live
+                                        more sustainable and healthy lives. The Senior Designer works to elevate the
+                                        brand and creates</p>
+                                     </div>
+                                    <div class="card-bottom-bd">
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <div class="card-profile">
+                                                    <strong>Azumi Shine</strong>
+                                                    <span>Google UI UX Design</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <div class="mt-15 text-end">
+                                                    <div class="rate">
+                                                        <input type="radio" id="star5" name="rate" value="5" />
+                                                        <label for="star5" title="text">5 stars</label>
+                                                        <input type="radio" id="star4" name="rate" value="4" />
+                                                        <label for="star4" title="text" class="checked">4 stars</label>
+                                                        <input type="radio" id="star3" name="rate" value="3" />
+                                                        <label for="star3" title="text" class="checked">3 stars</label>
+                                                        <input type="radio" id="star2" name="rate" value="2" />
+                                                        <label for="star2" title="text" class="checked">2 stars</label>
+                                                        <input type="radio" id="star1" name="rate" value="1" />
+                                                        <label for="star1" title="text" class="checked">1 star</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                            <div class="box-info-job pl-90 pt-30 pr-90">
-                                <span class="text-blue wow animate__animated animate__fadeInUp">Find jobs</span>
-                                <h5 class="heading-36 mb-30 mt-30 wow animate__animated animate__fadeInUp"> How YouTeam works</h5>
-                                <p class="text-lg wow animate__animated animate__fadeInUp">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is
-                                    simply dummy.
-                                </p>
-                                <div class="box-button-shadow mt-30 wow animate__animated animate__fadeInUp">
-                                    <a href="employers.php" class="btn btn-default">Explore more</a>
+                        <div class="swiper-slide">
+                            <div class="card-two-collumn hover-up">
+                                <div class="text-center card-grid-3-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/page/services/profile3.png" /></figure>
+                                    </a>
+                                </div>
+                                <div class="card-block-info quote-left mt-10">
+                                    <h5 class="heading-md font-semibold mb-20">Price and Product's Value</h5>
+                                     <div  class="customer-content-box">
+                                     <p class="text-md">Our creative strategy is focused on inspiring customers to live
+                                        more sustainable and healthy lives. The Senior Designer works to elevate the
+                                        brand and creates</p>
+                                     </div>
+                                    <div class="card-bottom-bd">
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <div class="card-profile">
+                                                    <strong>Steven Jhan</strong>
+                                                    <span>Aplle inc / Graphic Design</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <div class="mt-15 text-end">
+                                                    <div class="rate">
+                                                        <input type="radio" id="star52" name="rate" value="5" />
+                                                        <label for="star52" title="text" class="checked">5 stars</label>
+                                                        <input type="radio" id="star42" name="rate" value="4" />
+                                                        <label for="star42" title="text" class="checked">4 stars</label>
+                                                        <input type="radio" id="star32" name="rate" value="3" />
+                                                        <label for="star32" title="text" class="checked">3 stars</label>
+                                                        <input type="radio" id="star22" name="rate" value="2" />
+                                                        <label for="star22" title="text" class="checked">2 stars</label>
+                                                        <input type="radio" id="star12" name="rate" value="1" />
+                                                        <label for="star12" title="text" class="checked">1 star</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="card-two-collumn">
+                                <div class="text-center card-grid-3-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/page/services/profile2.png" /></figure>
+                                    </a>
+                                </div>
+                                <div class="card-block-info quote-left mt-10">
+                                    <h5 class="heading-md font-semibold mb-20">The best place to hire</h5>
+                                    <div  class="customer-content-box">
+                                        <p class="text-md">Our mission is to create the world's most sustainable
+                                        healthcare company by creating high-quality healthcare products in iconic,
+                                        sustainable packaging.</p>
+                                    </div>
+                                    <div class="card-bottom-bd">
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <div class="card-profile">
+                                                    <strong>Azumi Shine</strong>
+                                                    <span>Google UI UX Design</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <div class="mt-15 text-end">
+                                                    <div class="rate">
+                                                        <input type="radio" id="star53" name="rate" value="5" />
+                                                        <label for="star53" title="text" class="checked">5 stars</label>
+                                                        <input type="radio" id="star43" name="rate" value="4" />
+                                                        <label for="star43" title="text" class="checked">4 stars</label>
+                                                        <input type="radio" id="star33" name="rate" value="3" />
+                                                        <label for="star33" title="text" class="checked">3 stars</label>
+                                                        <input type="radio" id="star23" name="rate" value="2" />
+                                                        <label for="star23" title="text" class="checked">2 stars</label>
+                                                        <input type="radio" id="star13" name="rate" value="1" />
+                                                        <label for="star13" title="text" class="checked">1 star</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="swiper-pagination swiper-pagination3"></div>
                 </div>
             </div>
+        </div>
+    </div>
 </section>
-<section class="section-box wow animate__animated animate__fadeIn mt-70">
+<section class="section-box mt-50">
     <div class="container">
-        <div class="box-swiper">
-            <div class="swiper-container swiper-group-6">
-                <div class="swiper-wrapper pb-30 pt-5">
-                    <div class="swiper-slide hover-up">
-                        <div class="item-logo"><a href="candidates.php"><img alt="jobhub"
-                                    src="assets/imgs/slider/logo/google.svg" /></a></div>
+        <div class="row align-items-end">
+            <div class="col-lg-7 col-md-7">
+                <h2 class="section-title mb-20 wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".1s">From blog</h2>
+                <p class="text-md-lh28 color-black-5 wow animate__animated animate__fadeInUp hover-up" data-wow-delay=".1s">Latest News & Events</p>
+            </div>
+            <div class="col-lg-5 col-md-5 text-lg-end text-start">
+                <a href="#" class="btn btn-border icon-chevron-right wow animate__animated animate__fadeInUp hover-up mt-15" data-wow-delay=".1s">View more</a>
+            </div>
+        </div>
+        <div class="row mt-70">
+            <div class="box-swiper">
+                <div class="swiper-container swiper-group-3">
+                    <div class="swiper-wrapper pb-70 pt-5">
+                        <div class="swiper-slide">
+                            <div class="card-grid-3 hover-up">
+                                <div class="text-center card-grid-3-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/blog/img-blog-1.png" /></figure>
+                                    </a>
+                                </div>
+                                <div class="card-block-info">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-6 text-start">
+                                            <span>Sarah Harding</span>
+                                        </div>
+                                        <div class="col-lg-6 col-6 text-end">
+                                            <span>06 September</span>
+                                        </div>
+                                    </div>
+                                    <h5 class="mt-15 heading-md"><a class="blog-title-head" href="#">Senior Full Stack, Creator
+                                            Success Full Time</a></h5>
+                                    <div class="card-2-bottom mt-50">
+                                        <div class="row">
+                                            <div class="col-lg-9 col-8">
+                                                <a href="#" class="btn btn-border btn-brand-hover">Keep reading</a>
+                                            </div>
+                                            <div class="col-lg-3 text-end col-4">
+                                                <a href="#" class="mt-10 display-block mr-20"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="card-grid-3 hover-up">
+                                <div class="text-center card-grid-3-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/blog/img-blog-2.png" /></figure>
+                                    </a>
+                                </div>
+                                <div class="card-block-info">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-6 text-start">
+                                            <span>Sarah Harding</span>
+                                        </div>
+                                        <div class="col-lg-6 col-6 text-end">
+                                            <span>06 September</span>
+                                        </div>
+                                    </div>
+                                    <h5 class="mt-15 heading-md"><a class="blog-title-head" href="#">21 Job Tips: How To Make a Great Impression</a></h5>
+                                    <div class="card-2-bottom mt-50">
+                                        <div class="row">
+                                            <div class="col-lg-9 col-8">
+                                                <a href="#" class="btn btn-border btn-brand-hover">Keep reading</a>
+                                            </div>
+                                            <div class="col-lg-3 text-end col-4">
+                                                <a href="#" class="mt-10 display-block mr-20"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="card-grid-3 hover-up">
+                                <div class="text-center card-grid-3-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/blog/img-blog-3.png" /></figure>
+                                    </a>
+                                </div>
+                                <div class="card-block-info">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-6 text-start">
+                                            <span>Sarah Harding</span>
+                                        </div>
+                                        <div class="col-lg-6 col-6 text-end">
+                                            <span>06 September</span>
+                                        </div>
+                                    </div>
+                                    <h5 class="mt-15 heading-md"><a class="blog-title-head" href="#">Top SQL Query Interview Questions</a></h5>
+                                    <div class="card-2-bottom mt-50">
+                                        <div class="row">
+                                            <div class="col-lg-9 col-8">
+                                                <a href="#" class="btn btn-border btn-brand-hover">Keep reading</a>
+                                            </div>
+                                            <div class="col-lg-3 text-end col-4">
+                                                <a href="#" class="mt-10 display-block mr-20"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="card-grid-3 hover-up">
+                                <div class="text-center card-grid-3-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/blog/img-blog-4.png" /></figure>
+                                    </a>
+                                </div>
+                                <div class="card-block-info">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-6 text-start">
+                                            <span>Sarah Harding</span>
+                                        </div>
+                                        <div class="col-lg-6 col-6 text-end">
+                                            <span>06 September</span>
+                                        </div>
+                                    </div>
+                                    <h5 class="mt-15 heading-md"><a class="blog-title-head" href="#">How To Write an Interview Reschedule
+                                            Email</a></h5>
+                                    <div class="card-2-bottom mt-50">
+                                        <div class="row">
+                                            <div class="col-lg-9 col-8">
+                                                <a href="#" class="btn btn-border btn-brand-hover">Keep reading</a>
+                                            </div>
+                                            <div class="col-lg-3 text-end col-4">
+                                                <a href="#" class="mt-10 display-block mr-20"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="card-grid-3 hover-up">
+                                <div class="text-center card-grid-3-image">
+                                    <a href="#">
+                                        <figure><img alt="jobhub" src="assets/imgs/blog/img-blog-5.png" /></figure>
+                                    </a>
+                                </div>
+                                <div class="card-block-info">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-6 text-start">
+                                            <span>Sarah Harding</span>
+                                        </div>
+                                        <div class="col-lg-6 col-6 text-end">
+                                            <span>06 September</span>
+                                        </div>
+                                    </div>
+                                    <h5 class="mt-15 heading-md"><a class="blog-title-head" href="#">12 Peer Interview Questions and Answers</a></h5>
+                                    <div class="card-2-bottom mt-50">
+                                        <div class="row">
+                                            <div class="col-lg-9 col-8">
+                                                <a href="#" class="btn btn-border btn-brand-hover">Keep reading</a>
+                                            </div>
+                                            <div class="col-lg-3 text-end col-4">
+                                                <a href="#" class="mt-10 display-block mr-20"><img alt="jobhub" src="assets/imgs/theme/icons/bookmark.svg" /></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="swiper-slide hover-up">
-                        <div class="item-logo"><a href="candidates.php"><img alt="jobhub"
-                                    src="assets/imgs/slider/logo/airbnb.svg" /></a></div>
-                    </div>
-                    <div class="swiper-slide hover-up">
-                        <div class="item-logo"><a href="candidates.php"><img alt="jobhub"
-                                    src="assets/imgs/slider/logo/dropbox.svg" /></a></div>
-                    </div>
-                    <div class="swiper-slide hover-up">
-                        <div class="item-logo"><a href="candidates.php"><img alt="jobhub"
-                                    src="assets/imgs/slider/logo/fedex.svg" /></a></div>
-                    </div>
-                    <div class="swiper-slide hover-up">
-                        <div class="item-logo"><a href="candidates.php"><img alt="jobhub"
-                                    src="assets/imgs/slider/logo/wallmart.svg" /></a></div>
-                    </div>
-                    <div class="swiper-slide hover-up">
-                        <div class="item-logo"><a href="candidates.php"><img alt="jobhub"
-                                    src="assets/imgs/slider/logo/hubspot.svg" /></a></div>
-                    </div>
+                    <div class="swiper-pagination swiper-pagination3"></div>
                 </div>
             </div>
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
         </div>
     </div>
 </section>

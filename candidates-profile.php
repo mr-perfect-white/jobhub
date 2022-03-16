@@ -11,36 +11,40 @@
             </div>
             <div class="heading-main-info">
                 <h4>Danica Lewis</h4>
-                <div class="rate-reviews-small mb-2">
+                <!-- <div class="rate-reviews-small mb-2">
                     <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
                     <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
                     <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
                     <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
                     <span><img src="assets/imgs/theme/icons/star.svg" alt="jobhub" /></span>
-                </div>
+                </div> -->
                 <div class="head-info-profile">
-                    <span class="text-small mr-20"><i class="fi-rr-marker text-mutted"></i> Chicago, US</span>
+                    <!-- <span class="text-small mr-20"><i class="fi-rr-marker text-mutted"></i> Chicago, US</span> -->
                     <span class="text-small mr-20"><i class="fi-rr-briefcase text-mutted"></i> Ui/UX design</span>
-                    <span class="text-small"><i class="fi-rr-clock text-mutted"></i> Full Time</span>               
+                    <span class="text-small"><i class="fi-rr-clock text-mutted"></i> Full Time</span>  
+                    <a href="#" class="btn btn-default dwld-cv">Download CV</a>
                 </div>
-                <div class="row align-items-end">
-                    <div class="col-lg-6">
+                 <!-- <div class="align-self-end">
+                        
+                    </div>  -->
+                <!-- <div class="row "> -->
+                    <!-- <div class="col-lg-6">
                         <a href="#" class="btn btn-tags-sm mb-10 mr-5">Figma</a>
                         <a href="#" class="btn btn-tags-sm mb-10 mr-5">Adobe XD</a>
                         <a href="#" class="btn btn-tags-sm mb-10 mr-5">PSD</a>
                         <a href="#" class="btn btn-tags-sm mb-10 mr-5">App</a>
                         <a href="#" class="btn btn-tags-sm mb-10 mr-5">Digital</a>
+                    </div> -->
+                    
+                    <div class="row float-end pr-5 mr-5">
+                        <div class="col-12 text-lg-end">
+                            <ul class="breadcrumbs mt-10">
+                                <li><a href="#">Home</a></li>
+                                <li> Candidates</li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="col-lg-3">
-                        <a href="#" class="btn btn-default">Download CV</a>
-                    </div>
-                    <div class="col-lg-3 text-lg-end">
-                        <ul class="breadcrumbs mt-10">
-                            <li><a href="#">Home</a></li>
-                            <li>Danica Lewis</li>
-                        </ul>
-                    </div>
-                </div>
+                <!-- </div> -->
             </div>
         </div>
     </div>
@@ -63,20 +67,35 @@
                         iste eius officia minus. Id nisi, consequuntur sunt impedit quidem, vitae mollitia!
                     </p>
                     <div class="divider"></div>
-                    <h4 class="mb-20 mt-25">Work Experience</h4>
+                    <h4 class="mb-40 mt-25 pb-5">Recent Work Experience</h4>
                     <div class="row">
-                        <div class="col-md-12 col-12 mb-60">
+                        <div class="col-md-12 col-12 ">
                             <div class="row">
-                                <div class="col-lg-6">
-                                    <h2 class="text-md-bold">Title</h2>
+                                <div class="col-lg-2 col-md-3 col-4 d-flex ">
+                                    <div class="employers-logo online mr-15">
+                                        <a href="candidates-profile.php">
+                                            <figure>
+                                                <img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" />
+                                            </figure>
+                                        </a>
+                                    </div> 
+                            </div>
+                                <!-- <div class="col-lg-6">
+                                    <h2 class="text-md-bold">project Title</h2>
                                     <p>testinfo tech</p>
+                                </div> -->
+                                <div class="col-lg-8 col-md-8">
+                                <h2 class="text-md-bold pb-2">My Test Company1 | Alexendra City</h2>
+                                    <!-- <h2 class="text-md-bold">Duration in Month </h2>
+                                    <p>09-02-2022 to 10-02.2022</p> -->
+                                    <div class="row pb-2">
+                                    <div class="col-xl-6 col-sm-4">Web Disgner</div>
+                                    <div class="col-xl-6 col-sm-8">From 04 Jan, 2016 - 29 Dec, 2017</div>
                                 </div>
-                                <div class="col-lg-6">
-                                    <h2 class="text-md-bold">Duration in Month </h2>
-                                    <p>09-02-2022 to 10-02.2022</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa non iste ea iusto dolore quidem maxime expedita est quod omnis aut ipsam, saepe recusandae impedit, reiciendis eum culpa, officia blanditiis.</p>
                                 </div>
                             </div>
-                            <div>
+                            <!-- <div>
                                 <h2 class="text-md-bold">Project Description</h2>
                                 <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                                   when an unknown printer took a galley of type and scrambled it to make a type 
@@ -89,9 +108,11 @@
                                   when an unknown printer took a galley of type and scrambled it to make a type 
                                   specimen book
                                 </p>
-                            </div>
+                            </div> -->
+                            <hr>
                         </div>
-                        <div class="col-md-12 col-12 mb-60">
+
+                        <!-- <div class="col-md-12 col-12 mb-60">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <h2 class="text-md-bold">Title</h2>
@@ -116,13 +137,54 @@
                                   specimen book
                                 </p>
                             </div>
+                        </div> -->
+                        <div class="col-md-12 col-12 ">
+                            <div class="row ">
+                                <div class="col-lg-2 col-md-3 col-4 d-flex ">
+                                    <div class="employers-logo online mr-15">
+                                        <a href="candidates-profile.php">
+                                            <figure>
+                                                <img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" />
+                                            </figure>
+                                        </a>
+                                    </div> 
+                            </div>
+                                <!-- <div class="col-lg-6">
+                                    <h2 class="text-md-bold">project Title</h2>
+                                    <p>testinfo tech</p>
+                                </div> -->
+                                <div class="col-lg-8 col-md-8">
+                                <h2 class="text-md-bold pb-2">My Test Company1 | Alexendra City</h2>
+                                    <!-- <h2 class="text-md-bold">Duration in Month </h2>
+                                    <p>09-02-2022 to 10-02.2022</p> -->
+                                    <div class="row pb-2">
+                                    <div class="col-xl-6 col-sm-4">Web Disgner</div>
+                                    <div class="col-xl-6 col-sm-8">From 04 Jan, 2016 - 29 Dec, 2017</div>
+                                </div>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa non iste ea iusto dolore quidem maxime expedita est quod omnis aut ipsam, saepe recusandae impedit, reiciendis eum culpa, officia blanditiis.</p>
+                                </div>
+                            </div>
+                            <!-- <div>
+                                <h2 class="text-md-bold">Project Description</h2>
+                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                  when an unknown printer took a galley of type and scrambled it to make a type 
+                                  specimen book
+                                </p>
+                            </div>
+                            <div>
+                                <h2 class="text-md-bold">Role and Responsibilities</h2>
+                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                  when an unknown printer took a galley of type and scrambled it to make a type 
+                                  specimen book
+                                </p>
+                            </div> -->
                         </div>
                     </div>
+                    <!-- <div class="divider"></div>
+                     <h4 class="mt-30 mb-30">Work Process</h4>
+                    <img src="assets/imgs/page/candidates/work-process.svg" alt="jobhub"> 
                     <div class="divider"></div>
-                    <h4 class="mt-30 mb-30">Work Process</h4>
-                    <img src="assets/imgs/page/candidates/work-process.svg" alt="jobhub">
-                    <div class="divider"></div>
-                    <div class="divider"></div>
+                    <div class="divider"></div> -->
                     <h4 class="mb-10 mt-30">Professional Skills</h4>
                     <div class="block-progress-status">
                         <div class="item-progress">
@@ -173,80 +235,30 @@
                         <div class="col-md-5">
                             <a href="#" class="btn btn-default mr-15">Hire Now</a>
                         </div>
-                        <div class="col-md-7 text-lg-end social-share">
+                         <!-- <div class="col-md-7 text-lg-end social-share">
                             <a href="#" class="btn btn-border btn-sm mr-10"><img alt="jobhub"
                                     src="assets/imgs/theme/icons/share-fb.svg" /> Share</a>
                             <a href="#" class="btn btn-border btn-sm mr-10"><img alt="jobhub"
                                     src="assets/imgs/theme/icons/share-tw.svg" /> Tweet</a>
                             <a href="#" class="btn btn-border btn-sm">
                                 <img alt="jobhub"  src="assets/imgs/theme/icons/share-pinterest.svg" /> Pin</a>
-                        </div>
+                        </div>  -->
                     </div>
                 </div>
                 <div class="single-recent-jobs">
-                    <h4 class="heading-border"><span>Other Jobs</span></h4>
+                    <h4 class="heading-border"><span>Other Available Resources</span></h4>
                     <div class="employers-list empoyers-profile mt-30">
-                        <div class="card-employers hover-up wow animate__animated animate__fadeIn">
+                    <div class="card-employers hover-up wow animate__animated animate__fadeIn">
                             <div class="row align-items-center">
-                                <div class="col-lg-5 col-md-6 d-flex align-items-center">
-                                    <div class="employers-logo online mr-15">
-                                        <a href="candidates-profile.php">
-                                            <figure>
-                                              <img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png"/>
-                                            </figure>
-                                        </a>
-                                    </div>
-                                    <div class="employers-name">
-                                        <h5><a href="candidates-profile.php"><strong>Esther Howard</strong></a></h5>
-                                        <span class="text-sm text-muted">UI/UX Designer</span>
-                                        <div class="d-flex mt-5">
-                                            <div class="rate small float-start">
-                                                <input type="radio" id="star5" name="rate" value="5" />
-                                                <label for="star5" title="text" class="checked">5 stars</label>
-                                                <input type="radio" id="star4" name="rate" value="4" />
-                                                <label for="star4" title="text" class="checked">4 stars</label>
-                                                <input type="radio" id="star3" name="rate" value="3" />
-                                                <label for="star3" title="text" class="checked">3 stars</label>
-                                                <input type="radio" id="star2" name="rate" value="2" />
-                                                <label for="star2" title="text" class="checked">2 stars</label>
-                                                <input type="radio" id="star1" name="rate" value="1" />
-                                                <label for="star1" title="text" class="checked">1 star</label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-7 col-md-6">
-                                    <div class="employers-info">
-                                        <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Chicago, US</span>
-                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Software</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-9 job-tags mt-15">
-                                    <a href="candidates-grid.html" class="hover-up">Figma</a>
-                                    <a href="candidates-grid.html" class="hover-up">Adobe XD</a>
-                                    <a href="candidates-grid.html" class="hover-up">PSD</a>
-                                </div>
-                                <div class="col-lg-3 text-center text-lg-end pt-4 pt-lg-0 mt-15">
-                                    <div class="card-grid-2-link">
-                                        <a href="#"> <i class="fi-rr-shield-check"></i> </a>
-                                    </div>
-                                    <div>
-                                        <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View Profile</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card-employers hover-up wow animate__animated animate__fadeIn">
-                            <div class="row align-items-center">
-                                <div class="col-lg-5 col-md-6 d-flex align-items-center">
+                                <div class="col-lg-5 col-md-6 emply-lst d-flex align-items-center">
                                     <div class="employers-logo online mr-15">
                                         <a href="candidates-profile.php">
                                             <figure>
                                                 <img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" />
                                             </figure>
                                         </a>
-                                    </div>
-                                    <div class="employers-name">
+                                    </div> 
+                                     <div class="employers-name">
                                         <h5><a href="candidates-profile.php"><strong>Ralph Johnson</strong></a></h5>
                                         <span class="text-sm text-muted">Startup Team</span>
                                         <div class="d-flex mt-5">
@@ -267,8 +279,9 @@
                                 </div>
                                 <div class="col-lg-7 col-md-6">
                                     <div class="employers-info">
-                                        <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Chicago, US</span>
-                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Software</span>
+                                    <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Experience-4</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Salary-10k-15k</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Available on-2days</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 job-tags mt-15">
@@ -283,11 +296,62 @@
                                     <div>
                                         <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View  Profile</a>
                                     </div>
+                                </div> 
+                             </div> 
+                     </div>
+                         <div class="card-employers hover-up wow animate__animated animate__fadeIn">
+                            <div class="row align-items-center">
+                                <div class="col-lg-5 col-md-6 emply-lst d-flex align-items-center">
+                                    <div class="employers-logo online mr-15">
+                                        <a href="candidates-profile.php">
+                                            <figure>
+                                                <img alt="jobhub" src="assets/imgs/page/candidates/img-candidate.png" />
+                                            </figure>
+                                        </a>
+                                    </div> 
+                                     <div class="employers-name">
+                                        <h5><a href="candidates-profile.php"><strong>Ralph Johnson</strong></a></h5>
+                                        <span class="text-sm text-muted">Startup Team</span>
+                                        <div class="d-flex mt-5">
+                                            <div class="rate small float-start">
+                                                <input type="radio" id="star5" name="rate" value="5" />
+                                                <label for="star5" title="text" class="checked">5 stars</label>
+                                                <input type="radio" id="star4" name="rate" value="4" />
+                                                <label for="star4" title="text" class="checked">4 stars</label>
+                                                <input type="radio" id="star3" name="rate" value="3" />
+                                                <label for="star3" title="text" class="checked">3 stars</label>
+                                                <input type="radio" id="star2" name="rate" value="2" />
+                                                <label for="star2" title="text" class="checked">2 stars</label>
+                                                <input type="radio" id="star1" name="rate" value="1" />
+                                                <label for="star1" title="text" class="checked">1 star</label>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
+                                <div class="col-lg-7 col-md-6">
+                                    <div class="employers-info">
+                                    <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Experience-4</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Salary-10k-15k</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Available on-2days</span>
+                                    </div>
+                                </div>
+                                <div class="col-lg-9 job-tags mt-15">
+                                    <a href="candidates-grid.html" class="hover-up">Figma</a>
+                                    <a href="candidates-grid.html" class="hover-up">Adobe XD</a>
+                                    <a href="candidates-grid.html" class="hover-up">PSD</a>
+                                </div>
+                                <div class="col-lg-3 text-center text-lg-end pt-4 pt-lg-0 mt-15">
+                                    <div class="card-grid-2-link">
+                                        <a href="#"><i class="fi-rr-shield-check"></i></a>
+                                    </div>
+                                    <div>
+                                        <a href="candidates-profile.php" class="btn btn-border btn-brand-hover">View  Profile</a>
+                                    </div>
+                                </div> 
+                             </div> 
+                     </div>
                         <div class="mb-20">
-                            <a href="candidates.php" class="btn btn-default">Explore more</a>
+                            <a href="candidates.php" class="btn btn-default">Explore All</a>
                         </div>
                     </div>
                 </div>
@@ -314,15 +378,15 @@
                             <li>
                                 <div class="sidebar-icon-item"><i class="fi-rr-time-fast"></i></div>
                                 <div class="sidebar-text-info">
-                                    <span class="text-description">Last Delivery</span>
+                                    <span class="text-description">Available On</span>
                                     <strong class="small-heading">4 days</strong>
                                 </div>
                             </li>
                         </ul>
                     </div>
-                    <div class="sidebar-list-job mt-10 text-center">
+                    <!-- <div class="sidebar-list-job mt-10 text-center">
                         <a href="#" class="btn btn-default">Get a Quote</a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="sidebar-shadow">
                     <h5 class="sidebar-title">Skill's</h5>
@@ -334,7 +398,50 @@
                         <a href="#" class="btn btn-tags-sm mb-10 mr-5">NodeJS</a>
                     </div>
                 </div>
-                <div class="sidebar-normal">
+                <div class="sidebar-shadow">
+                    <h5 class="sidebar-title">Education</h5>
+                    <div class="block-tags">
+                        <h6>MCA</h6>
+                        <p>JNTU</p>
+                        <span>My Test Institute</span>
+                        <hr>
+                        <h6>BCA</h6>
+                        <p>JNTU</p>
+                        <span>My Test Institute</span>
+                        <!-- <a href="#" class="btn btn-tags-sm mb-10 mr-5">MCA</a>
+                        <a href="#" class="btn btn-tags-sm mb-10 mr-5">BE</a>
+                        <a href="#" class="btn btn-tags-sm mb-10 mr-5">Bsc</a>
+                        <a href="#" class="btn btn-tags-sm mb-10 mr-5">B.Tech</a>
+                        <a href="#" class="btn btn-tags-sm mb-10 mr-5">BCA</a> -->
+                    </div>
+                </div>
+                <div class="sidebar-shadow">
+                    <h5 class="langu-title">Languages</h5>
+                    <div class="row d-flex">
+                    <table class="table">
+                
+                <tbody>
+                    <tr>
+                    <td>English</td>
+                    <td>Expert</td>
+                    </tr>
+                     <tr>
+                    <td>Japanese</td>
+                    <td>Biginner</td>
+                    </tr>
+                    <tr>
+                    <td>Turkish</td>
+                    <td>Intermediate</td>
+                    </tr>
+                    <td>Chinese</td>
+                    <td>Intermediate</td>
+                    </tr>
+                    
+                </tbody>
+                </table>
+           </div>
+                </div>
+                <!-- <div class="sidebar-normal">
                     <div>
                         <h6 class="small-heading">Are you also hiring?</h6>
                         <ul class="ul-lists">
@@ -346,7 +453,7 @@
                             <li><a href="#">Programming & Tech</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

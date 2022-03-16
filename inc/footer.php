@@ -25,22 +25,23 @@
                 <div class="mt-20 mb-20">Jobhub is the heart of the design community and the best resource to discover
                     and connect with designers and jobs worldwide.</div>
             </div>
-            <div class="col-md-2 col-sm-3">
+            <div class="col-md-2 col-sm-3 col-6">
                 <h6>Quick Links</h6>
                 <ul class="menu-footer mt-40">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="about.php">About</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
                     <li><a href="pricing.php">Pricing</a></li>
-                    <li><a href="faq.php">FAQ</a></li>
+                    
                 </ul>
             </div>
-            <div class="col-md-2 col-sm-4">
+            <div class="col-md-2 col-sm-4 col-6">
                 <h6>Product</h6>
                 <ul class="menu-footer mt-40">
-                    <li><a href="employers.php">Employers</a></li>
-                    <li><a href="candidates.php">Candidates Listing</a></li>
-                    <li><a href="candidates-profile.php">Candidates Landing</a></li>
+                    <li><a href="employers.php">Hire Developers</a></li>
+                    <li><a href="requirement.php">Requirements</a></li>
+                    <li><a href="faq.php">FAQ</a></li>
+                    <li><a href="blog.php">Blogs</a></li>
                 </ul>
             </div>
             <div class="col-md-4 col-sm-5">
@@ -51,24 +52,6 @@
                 Bengaluru, Karnataka - 560043.<br class="d-xl-block d-none">
                 </div>
             </div>
-            <!-- <div class="col-md-2 col-xs-6">
-                <h6>Download</h6>
-                <ul class="menu-footer mt-40">
-                    <li><a href="#">iOS</a></li>
-                    <li><a href="#">Android</a></li>
-                    <li><a href="#">Microsoft</a></li>
-                    <li><a href="#">Desktop</a></li>
-                </ul>
-            </div>
-            <div class="col-md-2 col-xs-6">
-                <h6>Support</h6>
-                <ul class="menu-footer mt-40">
-                    <li><a href="#">Privacy</a></li>
-                    <li><a href="#">Help</a></li>
-                    <li><a href="#">Terms</a></li>
-                    <li><a href="#">FAQ</a></li>
-                </ul>
-            </div> -->
         </div>
         <div class="footer-bottom mt-50">
             <div class="row">
@@ -89,10 +72,7 @@
 </footer>
 <!-- End Footer -->
 <!-- Vendor JS-->
-
 <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
-
-
 <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
 <script src="assets/js/vendor/jquery-migrate-3.3.0.min.js"></script>
 <script src="assets/js/vendor/bootstrap.bundle.min.js"></script>
@@ -108,17 +88,10 @@
 <script src="assets/js/plugins/scrollup.js"></script>
 <script src="assets/js/plugins/swiper-bundle.min.js"></script>
 <!-- Template  JS -->
-
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
 <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.js"></script>
 <script src="assets/js/main.js"></script>
-
-  
-
-
-
 </body>
-
 </html>
 
 

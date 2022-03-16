@@ -1,41 +1,29 @@
 <?php include 'inc/header.php' ?>
+<section class="section-box text-center">
+            <div class="box-head-single bg-2">
+                <div class="container">
+                    <div class="avatar-sidebar mx-auto">
+                        <div class="d-flex align-items-center">
+                            <figure><img alt="jobhub" src="assets/imgs/page/job-single/avatar-job.png" /></figure>
+                            <div class="sidebar-info text-start">
+                            <h3 class="mt-10">Contact Us</h3>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+</section>
 <div class="container mt-90 mt-md-30">
     <div class="row">
         <div class="col-xl-10 col-lg-12 m-auto">
-            <section class="mb-50 mt-10">
-                <h5 class="text-blue text-center wow animate__animated animate__fadeInUp" data-wow-delay=".1s">Get in
-                    Touch</h5>
-                <h3 class="section-title w-75 w-md-100 mb-50 mt-15 text-center mx-auto wow animate__animated animate__fadeInUp"
-                    data-wow-delay=".1s">You are always welcome to visit our Company</h3>
-                <div class="row mb-60">
-                    <div class="col-md-4 mb-4 mb-md-0 wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
-                        <h5 class="mb-15">Office</h5>
-                        205 North Michigan Avenue, Suite 810<br />
-                        Chicago, 60601, USA<br />
-                        <abbr title="Phone">Phone:</abbr> (123) 456-7890<br />
-                        <abbr title="Email">Email: </abbr>contact@jubhub.com<br />
-                    </div>
-                    <div class="col-md-4 mb-4 mb-md-0 mt-sm-30 wow animate__animated animate__fadeInUp"
-                        data-wow-delay=".3s">
-                        <h5 class="mb-15">Studio</h5>
-                        205 North Michigan Avenue, Suite 810<br />
-                        Chicago, 60601, USA<br />
-                        <abbr title="Phone">Phone:</abbr> (123) 456-7890<br />
-                        <abbr title="Email">Email: </abbr>contact@jubhub.com<br />
-                    </div>
-                    <div class="col-md-4 mt-sm-30 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
-                        <h5 class="mb-15">Shop</h5>
-                        205 North Michigan Avenue, Suite 810<br />
-                        Chicago, 60601, USA<br />
-                        <abbr title="Phone">Phone:</abbr> (123) 456-7890<br />
-                        <abbr title="Email">Email: </abbr>contact@jubhub.com<br />
-                    </div>
-                </div>
+        
+            <section class="mb-50 mt-30">
                 <div class="row">
                     <div class="col-xl-9 col-md-12 mx-auto">
                         <div class="contact-from-area padding-20-row-col">
                             <h5 class="text-blue text-center wow animate__animated animate__fadeInUp"
-                                data-wow-delay=".1s">Send Message</h5>
+                                data-wow-delay=".1s">Get in Touch</h5>
                             <h2 class="section-title mt-15 mb-10 text-center wow animate__animated animate__fadeInUp"
                                 data-wow-delay=".1s">Drop Us a Line</h2>
                             <p class="text-muted mb-30 font-md text-center wow animate__animated animate__fadeInUp"
@@ -47,8 +35,8 @@
                                     <img src="assets/imgs/theme/icons/headset-color.svg">
                                     <p class="text-muted font-xs mb-10">Phone</p>
                                     <p class="mb-0 font-lg">
-                                        + 48 654-430-309 <br>
-                                        + 1 6532-430-309
+                                        <a href="tel:+48-654-430-309"> + 48 654-430-309</a> <br>
+                                        <a href="tel:+1-6532-430-309">+ 1 6532-430-309</a>
                                     </p>
                                 </div>
                                 <div class="col-md-4 mt-sm-30 text-center wow animate__animated animate__fadeInUp"
@@ -56,8 +44,9 @@
                                     <img src="assets/imgs/theme/icons/marker-color.svg" alt="">
                                     <p class="text-muted font-xs mb-10">Email</p>
                                     <p class="mb-0 font-lg">
-                                        contact@jobhub.com <br>
-                                        sales@jobhub.com
+                                        <a href="mailto:contact@jubhub.com">contact@jubhub.com</a> <br>
+                                        <a href="mailto:sales@jobhub.com">sales@jobhub.com</a>
+                                        
                                     </p>
                                 </div>
                                 <div class="col-md-4 mt-sm-30 text-center wow animate__animated animate__fadeInUp"

@@ -1,78 +1,133 @@
 <?php include 'inc/header.php' ?>
-<section class="section-box-2">
-    <div class="box-head-single none-bg">
+<section class="section-box">
+    <div class="box-head-single box-head-single-candidate">
         <div class="container">
-            <h4>There Are 968 Companies<br />Here For you!</h4>
-            <div class="row mt-15 mb-40">
-                <div class="col-lg-7 col-md-9">
-                    <span class="text-mutted">Discover your next career move, freelance gig, or
-                        internship</span>
+            <div class="heading-image-rd online">
+                <a href="#">
+                    <figure>
+                        <img alt="jobhub" src="assets/imgs/page/employers/employer1.png">
+                    </figure>
+                </a>
+            </div>
+            <div class="row d-flex">
+                <div class="heading-main-info col-lg-8">
+                    <h4>Bing Search</h4>
+                    <div class="head-info-profile">
+                        <ul>
+                            <li class="text-small mr-20 pb-2"><i class="fi-rr-marker text-mutted"></i> Chicago, US</li>
+                            <li class="text-small mr-20 pb-2"><i class="fi-rr-briefcase text-mutted"></i> Established In - Jul 27, 2018</li>
+                            <li class="text-small pb-2"><i class="fi-rr-clock text-mutted"></i> Full Time | Part Time</li>
+                        </ul>
+                        <!-- <span class="text-small mr-20"><i class="fi-rr-marker text-mutted"></i> Chicago, US</span>
+                        <span class="text-small mr-20"><i class="fi-rr-briefcase text-mutted"></i> Established In - Jul 27, 2018</span>
+                        <span class="text-small"><i class="fi-rr-clock text-mutted"></i> Full Time | Part Time</span> -->
+                        <div>      
+                        <a  href="#available" class="btn btn-default btn-shadow hover-up mt-4"> Available</a>
+                        </div>
+                    </div>
+                    <!-- <div class="row align-items-end">
+                        <div class="col-12 text-lg-end">
+                            <ul class="breadcrumbs mt-10">
+                                <li><a href="#">Home</a></li>
+                                <li> Candidates</li>
+                            </ul>
+                        </div>
+                    </div> -->
                 </div>
-                <div class="col-lg-5 col-md-3 text-lg-end text-start">
-                    <ul class="breadcrumbs mt-sm-15">
-                        <li><a href="#">Home</a></li>
-                        <li>Candidates</li>
-                    </ul>
+                <div class="col-lg-4 com-dtl">
+                    <!-- <div class="com-dtl"> -->
+                <ul class="list-unstyled">
+                           
+                            <li>
+                                <a href="tel:+4733378901" class="text-small">+1234567890</a>
+                            </li>
+                            
+                            <li>
+                                <a href="mailto: info@companydomain.com" class="text-small">employer@jobsportal.com</a>
+                            </li>
+                            <li>
+                                <a href="#" class="text-small">http://www.companydomain.com</a>
+                            </li>
+                    </ul> 
+                    
+                    </div>
                 </div>
             </div>
-            <div class="box-shadow-bdrd-15 box-filters">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="box-search-job">
-                            <form class="form-search-job">
-                                <input type="text" class="input-search-job" placeholder="UI Designer" />
-                            </form>
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                        <div class="row">
-                            <div class="col-lg-9">
-                               <div class="row">
-                                    <div class="col-lg-6 pt-3 pt-lg-0">
-                                        <div class="form-group mb-0 select-style select-style-icon">
-                                            <select class="form-control form-icons select-active">
-                                                <option selected disabled>Select City</option>
-                                                <option>New York, USA</option>
-                                                <option>Dallas, USA</option>
-                                                <option>Chicago, USA</option>
-                                            </select>
-                                            <i class="fi-rr-marker"></i>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 pt-3 pt-lg-0">
-                                        <div class="form-group mb-0 select-style select-style-icon">
-                                            <select class="form-control form-icons select-active">
-                                                <option selected disabled>Select Technology</option>
-                                                <option>Software</option>
-                                                <option>Marketing</option>
-                                            </select>
-                                            <i class="fi-rr-briefcase"></i>
-                                        </div>
-                                    </div>
-                               </div>
-                            </div>
-                             <div class="col-lg-3 box-button-find text-center text-lg-end pt-3 pt-lg-0 ps-lg-0">
-                                <button class="btn btn-default">Find Now</button>
-                            </div>
+             <div class="row float-end pr-5 mr-5">
+                        <div class="col-sm-12 text-lg-end">
+                            <ul class="breadcrumbs mt-10">
+                                <li><a href="#">Home</a></li>
+                                <li> Candidates</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
+        </div>
+    </div>
+</section>
+<section class="enqry mt-50">
+    <div class="container">
+        <div class="row justify-content-center w-100">
+            <div class="col-xl-9 col-lg-8">
+                <div class="p-3 abt-cmpy">
+                <h4 class=""><span class="span1">About Company</span></h4>
+                <div class="pe-lg-5 me-xl-5 pb-2">
+                    <p class="mt-20">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis illum fuga eveniet.
+                        Deleniti asperiores, commodi quae ipsum quas est itaque, ipsa, dolore beatae voluptates
+                        nemo blanditiis iste eius officia minus. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Debitis illum fuga eveniet.
+                    </p>
+                   
+                </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4">
+                <div class="p-3 abt-cmpy">
+            <h5 class="pb-2"><span class="span1">Company Details</span></h5>
+           <div class="row d-flex">
+               <div class="col-6">
+               <ul>
+                <li class="pb-2 ">Is Email Verified </li>
+                <li class="pb-2">Total Employees </li>
+                <li class="pb-2">Established In</li>
+                <li class="pb-2">Current Jobs</li>
+                </ul> 
+               </div>
+               <div class="col-6">
+               <ul class="">
+                <li class="pb-2 fw-bold">No</li>
+                <li class="pb-2 fw-bold">301-600</li>
+                <li class="pb-2 fw-bold">2003</li>
+                <li class="pb-2 fw-bold">5</li>
+            </ul> 
+               </div>
+           </div>
+            <!-- <ul>
+                <li class="pb-2 ">Is Email Verified <span class="cmpy-list">No</span></li>
+                <li class="pb-2">Total Employees <span class="cmpy-list">301-600</span></li>
+                <li class="pb-2">Established In<span class="cmpy-list">2003</span></li>
+                <li class="pb-2">Current Jobs<span class="cmpy-list">5</span></li>
+            </ul> -->
+                <!-- <img  src="assets/imgs/page/employers/img-1.png" alt="jobhub"> -->
+            </div>
             </div>
         </div>
     </div>
 </section>
-<section class="section-box mt-80">
+<section class="section-box mt-80" id="available">
     <div class="container">
-        <div class="row flex-row-reverse">
-            <div class="col-xl-9 col-12 float-right">
+        <div class="row ">
+            <div class="col-xl-8 col-12 float-left">
                 <div class="content-page">
                     <div class="box-filters-job mt-15 mb-10">
                         <div class="row">
-                            <div class="col-10 col-xl-7">
-                                <span class="text-small">Showing <strong>41-60 </strong>of <strong>944
+                        <h4 class="pb-2"><span class="span1">Available Openings</span></h4>
+                            <!-- <div class="col-10 col-xl-7">
+                                <span class="text-small">Showing <strong>41-60 </strong>of <strong>100
                                     </strong>Candidate</span>
-                            </div>
-                            <div class="col-10 col-xl-5 text-xl-end mt-sm-15">
+                            </div> -->
+                            <!-- <div class="col-10 col-xl-5 text-xl-end mt-sm-15">
                                 <div class="display-flex2">
                                     <span class="text-sortby">Sort by:</span>
                                     <div class="dropdown dropdown-sort">
@@ -87,7 +142,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-2 d-block d-xl-none text-end">
                                 <div id="filter_show-button" class="filter_icon-algin">
                                     <img src="assets/imgs/page/employers/filters.png" class="filter_img-icon">
@@ -98,7 +153,7 @@
                     <div class="employers-list">
                         <div class="card-employers hover-up wow animate__animated animate__fadeIn">
                             <div class="row align-items-center">
-                                <div class="col-lg-5 col-md-6 d-flex align-items-center">
+                                <div class="col-lg-5 col-md-6 emply-lst d-flex align-items-center">
                                     <div class="employers-logo online mr-15">
                                         <a href="candidates-profile.php">
                                             <figure><img alt="jobhub"
@@ -108,7 +163,10 @@
                                     <div class="employers-name">
                                         <h5><a href="candidates-profile.php"><strong>Esther Howard</strong></a></h5>
                                         <span class="text-sm text-muted">UI/UX Designer</span>
-                                        <div class="d-flex mt-5">
+                                        <div class="pt-2">
+                                        <span class="text-small"><i class="fi-rr-clock text-mutted"></i> Full Time</span>
+                                        </div>
+                                        <!-- <div class="d-flex mt-5">
                                             <div class="rate small float-start">
                                                 <input type="radio" id="star5" name="rate" value="5" />
                                                 <label for="star5" title="text" class="checked">5 stars</label>
@@ -121,13 +179,14 @@
                                                 <input type="radio" id="star1" name="rate" value="1" />
                                                 <label for="star1" title="text" class="checked">1 star</label>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-7 col-md-6">
                                     <div class="employers-info">
-                                        <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Chicago, US</span>
-                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Software</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Experience-4</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Salary-10k-15k</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Available on-2days</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 job-tags mt-15">
@@ -148,7 +207,7 @@
                         </div>
                         <div class="card-employers hover-up wow animate__animated animate__fadeIn">
                             <div class="row align-items-center">
-                                <div class="col-lg-5 col-md-6 d-flex align-items-center">
+                                <div class="col-lg-5 col-md-6  emply-lst d-flex align-items-center">
                                     <div class="employers-logo online mr-15">
                                         <a href="candidates-profile.php">
                                             <figure><img alt="jobhub"
@@ -157,8 +216,11 @@
                                     </div>
                                     <div class="employers-name">
                                         <h5><a href="candidates-profile.php"><strong>Ralph Johnson</strong></a></h5>
-                                        <span class="text-sm text-muted">Startup Team</span>
-                                        <div class="d-flex mt-5">
+                                        <span class="text-sm text-muted">UI/UX Designer</span>
+                                        <div class="pt-2">
+                                        <span class="text-small"><i class="fi-rr-clock text-mutted"></i> Full Time</span>
+                                        </div>
+                                        <!-- <div class="d-flex mt-5">
                                             <div class="rate small float-start">
                                                 <input type="radio" id="star5" name="rate" value="5" />
                                                 <label for="star5" title="text" class="checked">5 stars</label>
@@ -171,13 +233,14 @@
                                                 <input type="radio" id="star1" name="rate" value="1" />
                                                 <label for="star1" title="text" class="checked">1 star</label>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-7 col-md-6">
                                     <div class="employers-info">
-                                        <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Chicago, US</span>
-                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Software</span>
+                                    <span class="mr-10"><i class="align-text-top fi-rr-marker mr-5 ml-0"></i>Experience-4</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Salary-10k-15k</span>
+                                        <span class="mr-10"><i class="align-text-top fi-rr-briefcase mr-5"></i>Available on-2days</span>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 job-tags mt-15">
@@ -196,7 +259,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="paginations mt-50">
+                        <!-- <div class="paginations mt-50">
                             <ul class="pager">
                                 <li><a href="#" class="pager-prev"></a></li>
                                 <li><a href="#" class="pager-number">1</a></li>
@@ -208,145 +271,86 @@
                                 <li><a href="#" class="pager-number">7</a></li>
                                 <li><a href="#" class="pager-next"></a></li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                     
                 </div>
             </div>
-            <div class="col-xl-3 col-12 filter-responsive">
-                <div class="filter-responsive-content pt-30">
-                    <div class="filter-block d-lg-none d-block pb-10">
-                        <div class="d-flex justify-content-between align-items-center">
-                            <h5 class="font-semibold mb-0">Sub Filters</h5>
-                            <div id="filter_hide-button" class="close_icon-algin">
-                                <img class="close_img-icon" src="assets/imgs/page/employers/cancel.png">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="sidebar-shadow none-shadow mb-30">
-                        <div class="sidebar-filters">
-                            <div class="filter-block mb-30">
-                                <h5 class="medium-heading mb-15">Location</h5>
-                                <div class="form-group">
-                                    <input type="text" class="form-control form-icons" placeholder="Location" />
-                                    <i class="fi-rr-marker"></i>
+            <div class="col-xl-4 col-12">
+                <div class="enguiry-form-company wow animate__animated animate__fadeInUp" data-wow-delay=".1s" >
+                    <form class="sign-in-form-style   " id="sign-form" action="#" method="post">
+                        <div class="row">
+                            <h5 class="text-center py-4"><span class="span1">Enquiry</span></h5>
+                            <!-- <div class="col-lg-12 col-md-6 my-2">
+                                <div class="input-sign-style mb-20">
+                                    <input name="name" placeholder="First Name" type="text" />
                                 </div>
                             </div>
-                            <div class="filter-block mb-30">
-                                <h5 class="medium-heading mb-15">Categoy</h5>
-                                <div class="form-group select-style select-style-icon">
-                                    <select class="form-control form-icons select-active">
-                                        <option>Ui/UX design</option>
-                                        <option>Ui/UX design 1</option>
-                                        <option>Ui/UX design 2</option>
-                                        <option>Ui/UX design 3</option>
-                                    </select>
-                                    <i class="fi-rr-briefcase"></i>
+                            <div class="col-lg-12 col-md-6 my-2">
+                                <div class="input-sign-style mb-20">
+                                    <input name="email" placeholder="Your Email" type="email" />
                                 </div>
                             </div>
-                            <div class="filter-block mb-30">
-                                <h5 class="medium-heading mb-15">Job type</h5>
-                                <div class="form-group">
-                                    <ul class="list-checkbox">
-                                        <li>
-                                            <label class="cb-container">
-                                                <input type="checkbox"> <span class="text-small">Full Time
-                                                    Jobs</span>
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <span class="number-item">235</span>
-                                        </li>
-                                        <li>
-                                            <label class="cb-container">
-                                                <input type="checkbox" checked="checked"> <span class="text-small">Part Time
-                                                    Jobs</span>
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <span class="number-item">28</span>
-                                        </li>
-                                    </ul>
+                            <div class="col-lg-12 col-md-6 my-2">
+                                <div class="input-sign-style mb-20">
+                                    <input name="telephone" class="tel-number" placeholder="Your Phone" type="tel" />
                                 </div>
-                            </div>
-                            <div class="filter-block mb-30">
-                                <h5 class="medium-heading mb-10">Experience Level</h5>
-                                <div class="form-group">
-                                    <ul class="list-checkbox">
-                                        <li>
-                                            <label class="cb-container">
-                                                <input type="checkbox"> <span class="text-small">Expert</span>
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <span class="number-item">76</span>
-                                        </li>
-                                        <li>
-                                            <label class="cb-container">
-                                                <input type="checkbox"> <span class="text-small">Senior</span>
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <span class="number-item">89</span>
-                                        </li>
-                                        <li>
-                                            <label class="cb-container">
-                                                <input type="checkbox" checked="checked"> <span
-                                                    class="text-small">Junior</span>
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <span class="number-item">54</span>
-                                        </li>
-                                        <li>
-                                            <label class="cb-container">
-                                                <input type="checkbox" checked="checked"> <span
-                                                    class="text-small">Regular</span>
-                                                <span class="checkmark"></span>
-                                            </label>
-                                            <span class="number-item">23</span>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="filter-block mb-40">
-                                <h5 class="medium-heading mb-25">Salary Range</h5>
-                                <div class="">
-                                    <div class="row mb-20">
-                                        <div class="col-sm-12">
-                                            <div id="slider-range"></div>
-                                        </div>
+                            </div> -->
+                            <div class="col-lg-12 col-md-12 mt-4 text-center">
+                                <!-- <button class="submit submit-auto-width  btn btn-default btn-shadow hover-up" type="submit"> Submit</button> -->
+                                <button type="button" class="submit submit-auto-width  btn btn-default btn-shadow hover-up" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                                Get a Quote
+                                        </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+                                    <div class="modal-dialog">
+                                    <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title w-100" id="exampleModalLabel">Enquiry</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <label class="lb-slider">From</label>
-                                            <div class="form-group minus-input">
-                                                <input type="text" name="min-value-money"
-                                                    class="input-disabled form-control min-value-money" disabled="disabled"
-                                                    value="" />
-                                                <input type="hidden" name="min-value" class="form-control min-value"
-                                                    value="" />
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <label class="lb-slider">To</label>
-                                            <div class="form-group">
-                                                <input type="text" name="max-value-money"
-                                                    class="input-disabled form-control max-value-money" disabled="disabled"
-                                                    value="" />
-                                                <input type="hidden" name="max-value" class="form-control max-value"
-                                                    value="" />
-                                            </div>
-                                        </div>
+                                    <div class="modal-body">
+                                    <div class="col-lg-12 col-md-6 my-2">
+                                    <div class="input-sign-style mb-20">
+                                        <input name="name" placeholder="First Name" type="text" />
+                                    </div>
+                            </div>
+                            <div class="col-lg-12 col-md-6 my-2">
+                                <div class="input-sign-style mb-20">
+                                    <input name="email" placeholder="Your Email" type="email" />
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-6 my-2">
+                                <div class="input-sign-style mb-20">
+                                    <input name="telephone" class="tel-number" placeholder="Your Phone" type="tel" />
+                                </div>
+                            </div>
+                                    </div>
+                                    <div class="mb-4">
+                                        <button class="submit submit-auto-width  btn btn-default btn-shadow hover-up" type="submit"> Submit</button>
+                                        <!-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-primary">Save changes</button> -->
+                                    </div>
                                     </div>
                                 </div>
+                                <!-- end -->
+                                </div>
+
+
                             </div>
+                            
                         </div>
-                    </div>
-                    <div class="sidebar-with-bg background-primary bg-sidebar pb-80">
-                        <h5 class="medium-heading text-white mb-20 mt-20">Recruiting?</h5>
-                        <p class="text-body-999 text-white mb-30">Advertise your jobs to millions of monthly users
-                            and  search 16.8 million CVs in our database.</p>
-                        <a href="#" class="btn btn-border icon-chevron-right btn-white-sm">Post a Job</a>
-                    </div>
+                    </form>
                 </div>
+               
             </div>
         </div>
     </div>
 </section>
+
 <?php include 'inc/footer.php' ?>
+
+                            
+                            
+                               
